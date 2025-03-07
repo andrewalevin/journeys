@@ -1,0 +1,9 @@
+
+.newsletter{
+    padding-top: 50px;
+}
+
+
+.newsletter-text {
+    grid-row-gap: 64px;
+}
