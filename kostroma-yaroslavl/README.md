@@ -1,5 +1,5 @@
 <link rel="stylesheet" href="../assets-custom/css/style-markdown.css">
-<div class="cover-container" style="background-image: url('kostroma-ipatevsky.jpg');">
+<div class="cover-container" style="background-image: url('kostroma-ipatevsky.jpg');     background-position-y: 30%;">
 	<div class="cover-text">
 		<div class="cover-title">
             Кострома и Ярославль

@@ -1,5 +1,5 @@
 <link rel="stylesheet" href="../assets-custom/css/style-markdown.css">
-<div class="cover-container" style="background-image: url('yasnaya-polyana.jpg');">
+<div class="cover-container" style="background-image: url('yasnaya-polyana.jpg'); background-position-y: 40%;">
 	<div class="cover-text">
 		<div class="cover-title">
             Тула
