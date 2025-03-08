@@ -1,5 +1,5 @@
 <link rel="stylesheet" href="../assets-custom/css/style-markdown.css">
-<div class="cover-container" style="background-image: url('rostov.jpg');">
+<div class="cover-container" style="background-image: url('rostov.jpg'); background-position-y: 50%;">
 	<div class="cover-text">
 		<div class="cover-title">
             Ростов

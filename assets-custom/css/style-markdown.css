@@ -12,7 +12,7 @@
     border-radius: 1.5rem;
     background-image: url('../../zvenigorod/zvenigorod-rozgd.jpg');
     background-size: cover;
-    background-position: center 30%;
+    background-position: center 50%;
     display: flex;
     flex-flow: column;
     justify-content: end;
