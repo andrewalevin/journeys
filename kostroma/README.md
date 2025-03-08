@@ -1,22 +1,20 @@
 
-<link rel="stylesheet" href="../components/css/style-markdown.css" />
-<div id="cozy-cover">
-    <div class="full-package-item">
-        <div class="full-package-frame">
-            <img src="../orig/kostr2.jpg" loading="lazy" alt="" class="photo-placeholder" />
+<link rel="stylesheet" href="../components/css/style-markdown.css">
+<div class="cover-container" style="background-image: url('kostroma.jpg');">
+	<div class="cover-text">
+		<div class="cover-title">
+            Кострома
         </div>
-        <div class="full-package-text">
-            <div class="cozy-card-title">Кострома</div>
-            <div class="full-package-description">
-                <div class="packages-price-location">
-                    <div class="packages-time">
-                        <img loading="lazy" src="../components/icon_time.png" alt="" class="packages-icon" />
-                        <div class="days">1 день</div>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
+		<div class="cover-description">
+			<div>
+				Пешком
+			</div>
+			<div>
+				<img class="cover-icon" loading="lazy" src="../components/icon_time.png" alt=""  />
+				<span>1 день</span>
+			</div>
+		</div>
+	</div>
 </div>
 
 Description will be later
