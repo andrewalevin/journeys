@@ -3,7 +3,7 @@
 <div class="cover-container" style="background-image: url('mozhaysk-kreml.jpg');">
 	<div class="cover-text">
 		<div class="cover-title">
-            Бородино
+            Бородино и Можайск
         </div>
 		<div class="cover-description">
 			<div>
