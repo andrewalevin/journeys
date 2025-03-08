@@ -1,4 +1,5 @@
-<link rel="stylesheet" href="components/css/style-markdown.css" />
+
+<link rel="stylesheet" href="./components/css/style-markdown.css" />
 <div id="cozy-cover">
     <div class="full-package-item">
         <div class="full-package-frame">
