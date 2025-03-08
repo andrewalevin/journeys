@@ -2,6 +2,10 @@
     border-bottom: none;
 }
 
+.markdown-body h1:first-of-type a{
+    color: initial;
+}
+
 .cover-container {
     min-height: 400px;
     width: 100%;
