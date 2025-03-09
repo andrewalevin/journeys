@@ -10,7 +10,7 @@
             </div>
             <div>
                 <img class="cover-icon" loading="lazy" src="../assets-custom/icon_time.png" alt=""  />
-                <span>1 день</span>
+                <span>Полдня</span>
             </div>
 		</div>
 	</div>
