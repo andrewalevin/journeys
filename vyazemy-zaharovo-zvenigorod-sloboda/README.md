@@ -1,6 +1,6 @@
 
 <link rel="stylesheet" href="../assets-custom/css/style-markdown.css">
-<div class="cover-container" style="background-image: url('vyazemy-kolokolnya-1600.jpg');">
+<div class="cover-container" style="background-image: url('savinsky-monastyr-1600.jpg');">
 	<div class="cover-text">
 		<div class="cover-title">
             Вяземы, Захарово, Звенигород, Каринское
@@ -8,7 +8,7 @@
 		<div class="cover-description">
 			<div class="packages-location">
                 <img loading="lazy" src="../assets-custom/bike-96.png" alt="" class="cover-icon">
-                <div class="h4-default regular">На велосипеде, 57 км.</div>
+                <div class="h4-default regular">На велосипеде, 39 км</div>
             </div>
             <div>
                 <img class="cover-icon" loading="lazy" src="../assets-custom/icon_time.png" alt=""  />
@@ -18,4 +18,4 @@
 	</div>
 </div>
 
-[vyazemy-zaharovo-zvenigorod-karinskoe.gpx](vyazemy-zaharovo-zvenigorod-karinskoe.gpx)Description will be later
+[vyazemy-zaharovo-zvenigorod-sloboda.gpx](vyazemy-zaharovo-zvenigorod-sloboda.gpx)Description will be later
