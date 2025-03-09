@@ -19,4 +19,6 @@
 </div>
 
 
-Description will be later
+[borodino-mozshaysk.gpx](borodino-mozshaysk.gpx)
+
+
