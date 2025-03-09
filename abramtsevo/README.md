@@ -1,3 +1,9 @@
+
+<meta property="og:title" content="Абрамтцево">
+<meta property="og:description" content="Прогулка на весь день">
+<meta property="og:image" content="https://andrewalevin.github.io/journeys/zvenigorod/abramtsevo.jpg">
+
+
 <link rel="stylesheet" href="../assets-custom/css/style-markdown.css">
 <div class="cover-container" style="background-image: url('abramtsevo.jpg'); background-position-y: 50%;">
 	<div class="cover-text">
