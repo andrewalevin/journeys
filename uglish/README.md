@@ -8,7 +8,7 @@
 		<div class="cover-description">
 			<div class="packages-location">
                 <img loading="lazy" src="../assets-custom/bike-96.png" alt="" class="cover-icon">
-                <div class="h4-default regular">На велосипеде</div>
+                <div class="h4-default regular">На велосипеде, 94 км.</div>
             </div>
             <div>
                 <img class="cover-icon" loading="lazy" src="../assets-custom/icon_time.png" alt=""  />
@@ -18,4 +18,8 @@
 	</div>
 </div>
 
-Description will be later
+[uglich-myshkin.gpx](uglich-myshkin.gpx)
+
+[myshkin-stvolga.gpx](myshkin-stvolga.gpx)
+
+[stvolga-rybinsk.gpx](stvolga-rybinsk.gpx)
