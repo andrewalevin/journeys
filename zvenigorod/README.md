@@ -84,14 +84,14 @@ Text
 
 
 <!-- GPX2Mapbox Script -->
-<script src="assets-custom/js/gpx2mapbox.js"></script>
+<script src="../assets-custom/js/gpx2mapbox.js"></script>
 
 <script>
 	initializeGPXMap({
 		gpxFilePath: 'tver-konakovo/tver-toporok.gpx',
-		mapHeight: '300px', // Height in px or vh
-		center: [37.6173, 55.7558], // Moscow coordinates
-		zoom: 6,                    // Initial zoom level
-		containerId: 'map'          // Optional, if you want to change container
+		mapHeight: '300px',
+		center: [37.6173, 55.7558],
+		zoom: 6, 
+		containerId: 'map'
 	});
 </script>
