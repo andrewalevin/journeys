@@ -1,7 +1,7 @@
 
 <meta property="og:title" content="Звенигород">
 <meta property="og:description" content="Пешком по городу">
-<meta property="og:image" content="zvenigorod-rozgd.jpg">
+<meta property="og:image" content="https://andrewalevin.github.io/journeys/zvenigorod/zvenigorod-rozgd.jpg">
 
 <link rel="stylesheet" href="../assets-custom/css/style-markdown.css">
 <div class="cover-container" style="background-image: url('zvenigorod-rozgd.jpg');">
