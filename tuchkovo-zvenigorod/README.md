@@ -5,7 +5,7 @@
 		<div class="cover-title">Звенигород</div>
 		<div class="cover-description">
 			<div class="packages-location">
-                <img loading="lazy" src="../assets-custom/bike-96.png" alt="" class="packages-icon">
+                <img loading="lazy" src="../assets-custom/bike-96.png" alt="" class="cover-icon">
                 <div class="h4-default regular">На велосипеде</div>
             </div>
             <div>
