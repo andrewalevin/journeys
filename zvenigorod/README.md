@@ -27,7 +27,7 @@ Map
 Text
 
 
-Text 
+Text
 
 Text
 Text
@@ -88,7 +88,7 @@ Text
 
 <script>
 	initializeGPXMap({
-		gpxFilePath: 'tver-konakovo/tver-toporok.gpx',
+		gpxFilePath: 'tver-toporok.gpx',
 		mapHeight: '300px',
 		center: [37.6173, 55.7558],
 		zoom: 6, 
