@@ -4,6 +4,7 @@
 
 .markdown-body h1:first-of-type a{
     color: initial;
+    font-weight: 500;
 }
 
 .cover-container {
