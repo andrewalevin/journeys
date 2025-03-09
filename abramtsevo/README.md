@@ -8,7 +8,7 @@
 <div class="cover-container" style="background-image: url('abramtsevo.jpg'); background-position-y: 50%;">
 	<div class="cover-text">
 		<div class="cover-title">
-            Сергиев Посад и Абрамцево
+            Абрамтцево и Сергиев Посад
         </div>
 		<div class="cover-description">
 			<div>
