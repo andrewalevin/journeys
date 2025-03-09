@@ -14,7 +14,8 @@
 }
 
 .packages-location, .packages-time {
-
+    grid-column-gap: 10px;
+    grid-row-gap: 10px;
 }
 
 .full-package-text {
