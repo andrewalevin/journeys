@@ -1,14 +1,14 @@
 
 <link rel="stylesheet" href="../assets-custom/css/style-markdown.css">
-<div class="cover-container" style="background-image: url('dubna-1600.jpg');">
+<div class="cover-container" style="background-image: url('kanal-1600.jpg');">
 	<div class="cover-text">
 		<div class="cover-title">
-            Дубна - Дмитров
+            Дмитров - Конаково
         </div>
 		<div class="cover-description">
 			<div class="packages-location">
                 <img loading="lazy" src="../assets-custom/bike-96.png" alt="" class="cover-icon">
-                <div class="h4-default regular">На велосипеде</div>
+                <div class="h4-default regular">На велосипеде, ? км.</div>
             </div>
             <div>
                 <img class="cover-icon" loading="lazy" src="../assets-custom/icon_time.png" alt=""  />
