@@ -1,8 +1,10 @@
 
 <link rel="stylesheet" href="../assets-custom/css/style-markdown.css">
-<div class="cover-container" style="background-image: url('zvenigorod-rozgd.jpg');">
+<div class="cover-container" style="background-image: url('vyazemy-kolokolnya-1600.jpg');">
 	<div class="cover-text">
-		<div class="cover-title">Звенигород</div>
+		<div class="cover-title">
+            Вяземы, Захарово, Звенигород, Каринское
+        </div>
 		<div class="cover-description">
 			<div class="packages-location">
                 <img loading="lazy" src="../assets-custom/bike-96.png" alt="" class="cover-icon">
