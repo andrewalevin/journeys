@@ -20,4 +20,26 @@
 	</div>
 </div>
 
-Description will be later
+Map
+
+<div id="map"></div>
+
+Text
+
+
+Text 
+
+<script src="https://api.mapbox.com/mapbox-gl-js/v2.14.1/mapbox-gl.js"></script>
+
+    <!-- GPX2Mapbox Script -->
+    <script src="assets-custom/js/gpx2mapbox.js"></script>
+
+    <script>
+        initializeGPXMap({
+            gpxFilePath: 'tver-konakovo/tver-toporok.gpx',
+            mapHeight: '300px', // Height in px or vh
+            center: [37.6173, 55.7558], // Moscow coordinates
+            zoom: 6,                    // Initial zoom level
+            containerId: 'map'          // Optional, if you want to change container
+        });
+    </script>

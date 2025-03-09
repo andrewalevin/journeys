@@ -28,7 +28,7 @@ function initializeGPXMap(config) {
 
     const map = new mapboxgl.Map({
         container: containerId,
-        style: 'mapbox://styles/mapbox/streets-v12',
+        style: 'mapbox://styles/andrewlevin/clthwxvvg002h01qo40y1e99g',
         center: center,
         zoom: zoom
     });
