@@ -19,4 +19,4 @@
 </div>
 
 
-![torzhok-tver.gpx](torzhok-tver.gpx)
+[torzhok-tver.gpx](torzhok-tver.gpx)
