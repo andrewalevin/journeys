@@ -7,3 +7,17 @@
 .newsletter-text {
     grid-row-gap: 64px;
 }
+
+.packages-location .packages-icon{
+    width: 24px;
+    height: 24px;
+}
+
+.packages-location, .packages-time {
+
+}
+
+.full-package-text {
+    grid-column-gap: 20px;
+    grid-row-gap: 20px;
+}
