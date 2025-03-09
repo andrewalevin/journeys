@@ -388,7 +388,7 @@
 
 
     <link rel="stylesheet" href="../assets-custom/css/style-markdown.css">
-    <div class="cover-container" style="background-image: url('zvenigorod-rozgd.jpg');">
+    <div class="cover-container" style="background-image: url('zvenigorod/zvenigorod-rozgd.jpg');">
         <div class="cover-text">
             <div class="cover-title">Звенигород</div>
             <div class="cover-description">
@@ -405,6 +405,41 @@
     </div>
 
     Description will be later
+
+    <h1>Head</h1>
+    <h1>Yet Another Head</h1>
+
+    <div id="map"></div>
+
+    <h1>Bottom-0</h1>
+
+
+    <!-- Mapbox GL JS -->
+    <script src="https://api.mapbox.com/mapbox-gl-js/v2.14.1/mapbox-gl.js"></script>
+
+    <!-- GPX2Mapbox Script -->
+    <script src="assets-custom/js/gpx2mapbox.js"></script>
+
+    <script>
+        initializeGPXMap({
+            gpxFilePath: 'tver-konakovo/tver-toporok.gpx',
+            mapHeight: '300px', // Height in px or vh
+            center: [37.6173, 55.7558], // Moscow coordinates
+            zoom: 6,                    // Initial zoom level
+            containerId: 'map'          // Optional, if you want to change container
+        });
+    </script>
+
+
+    <h1>Bottom</h1>
+    <h1>Bottom</h1>
+    <h1>Bottom</h1>
+    <h1>Bottom</h1>
+    <h1>Bottom</h1>
+    <h1>Bottom</h1>
+    <h1>Bottom</h1>
+    <h1>Bottom</h1>
+
 
 
 
