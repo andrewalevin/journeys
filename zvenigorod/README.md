@@ -5,6 +5,7 @@
 		<div class="cover-title">Звенигород</div>
 		<div class="cover-description">
 			<div>
+                <img loading="lazy" src="../assets-custom/footsteps-96.png" alt="" class="packages-icon">
 				Пешком
 			</div>
 			<div>
