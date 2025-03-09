@@ -18,7 +18,6 @@
 	</div>
 </div>
 
-Description will be later
 
 
-![dmitrov-konakovo.gpx](dmitrov-konakovo.gpx)
+[dmitrov-konakovo.gpx](dmitrov-konakovo.gpx)
