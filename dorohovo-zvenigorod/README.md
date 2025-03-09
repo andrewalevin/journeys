@@ -18,4 +18,3 @@
 	</div>
 </div>
 
-Description will be later

@@ -18,4 +18,5 @@
 	</div>
 </div>
 
-[zvenigorod-karinskoe.gpx](zvenigorod-karinskoe.gpx)Description will be later
+[zvenigorod-karinskoe.gpx](zvenigorod-karinskoe.gpx)
+
