@@ -8,7 +8,7 @@
 		<div class="cover-description">
 			<div class="packages-location">
                 <img loading="lazy" src="../assets-custom/bike-96.png" alt="" class="cover-icon">
-                <div class="h4-default regular">На велосипеде</div>
+                <div class="h4-default regular">На велосипеде, 42 км.</div>
             </div>
             <div>
                 <img class="cover-icon" loading="lazy" src="../assets-custom/icon_time.png" alt=""  />
@@ -18,4 +18,4 @@
 	</div>
 </div>
 
-Description will be later
+[zvenigorod-karinskoe.gpx](zvenigorod-karinskoe.gpx)Description will be later
