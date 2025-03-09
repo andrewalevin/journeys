@@ -6,12 +6,13 @@
         </div>
 		<div class="cover-description">
 			<div>
-				Пешком
-			</div>
-			<div>
-				<img class="cover-icon" loading="lazy" src="../assets-custom/icon_time.png" alt=""  />
-				<span>2 дня</span>
-			</div>
+                <img class="cover-icon" src="../assets-custom/footsteps-96.png" loading="lazy" alt="" />
+                <span>Пешком</span>
+            </div>
+            <div>
+                <img class="cover-icon" loading="lazy" src="../assets-custom/icon_time.png" alt=""  />
+                <span>1 день</span>
+            </div>
 		</div>
 	</div>
 </div>

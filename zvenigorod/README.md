@@ -5,13 +5,13 @@
 		<div class="cover-title">Звенигород</div>
 		<div class="cover-description">
 			<div>
-                <img loading="lazy" src="../assets-custom/footsteps-96.png" alt="" class="packages-icon">
-				Пешком
-			</div>
-			<div>
-				<img class="cover-icon" loading="lazy" src="../assets-custom/icon_time.png" alt=""  />
-				<span>1 день</span>
-			</div>
+                <img class="cover-icon" src="../assets-custom/footsteps-96.png" loading="lazy" alt="" />
+                <span>Пешком</span>
+            </div>
+            <div>
+                <img class="cover-icon" loading="lazy" src="../assets-custom/icon_time.png" alt=""  />
+                <span>1 день</span>
+            </div>
 		</div>
 	</div>
 </div>
