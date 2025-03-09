@@ -19,3 +19,6 @@
 </div>
 
 Description will be later
+
+
+![serpuhov-stupino.gpx](serpuhov-stupino.gpx)
