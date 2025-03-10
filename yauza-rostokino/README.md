@@ -3,12 +3,12 @@
 <div class="cover-container" style="background-image: url('yauza-1600.jpg');">
 	<div class="cover-text">
 		<div class="cover-title">
-            Исток Яузы
+            Исток Яузы - Ростокино
         </div>
 		<div class="cover-description">
 			<div class="packages-location">
                 <img loading="lazy" src="../assets-custom/bike-96.png" alt="" class="cover-icon">
-                <div class="h4-default regular">На велосипеде</div>
+                <div class="h4-default regular">На велосипеде, 29 км.</div>
             </div>
             <div>
                 <img class="cover-icon" loading="lazy" src="../assets-custom/icon_time.png" alt=""  />
@@ -35,7 +35,7 @@ Text
 
 <script>
 	initializeGPXMap({
-		gpxFilePath: 'tver-toporok.gpx',
+		gpxFilePath: 'yauza-rostokino.gpx',
 		center: [37.6173, 55.7558],
 		zoom: 6, 
 		containerId: 'map'
