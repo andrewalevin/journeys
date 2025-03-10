@@ -1,6 +1,6 @@
 
 <link rel="stylesheet" href="../assets-custom/css/style-markdown.css">
-<div class="cover-container" style="background-image: url('rostokino-1600.jpg');">
+<div class="cover-container" style="background-image: url('yauza-1600.jpg');">
 	<div class="cover-text">
 		<div class="cover-title">
             Мытищи - Останкино вдоль Яузу
