@@ -27,57 +27,8 @@ Map
 Text
 
 
-Text
 
-Text
-Text
 
-Text
-
-Text
-
-Text
-
-Text
-
-Text
-
-Text
-
-Text
-
-Text
-
-Text
-
-Text
-
-Text
-
-Text
-Text
-
-Text
-
-Text
-
-Text
-
-Text
-
-Text
-
-Text
-
-Text
-
-Text
-
-Text
-
-Text
-
-Text
 
 
 <script src="https://api.mapbox.com/mapbox-gl-js/v2.14.1/mapbox-gl.js"></script>
