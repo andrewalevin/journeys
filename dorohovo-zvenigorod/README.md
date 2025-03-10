@@ -8,7 +8,7 @@
 		<div class="cover-description">
 			<div class="packages-location">
                 <img loading="lazy" src="../assets-custom/bike-96.png" alt="" class="cover-icon">
-                <div class="h4-default regular">На велосипеде, 44 + 20 + 15 км.</div>
+                <div class="h4-default regular">На велосипеде, 80 км.</div>
             </div>
             <div>
                 <img class="cover-icon" loading="lazy" src="../assets-custom/icon_time.png" alt=""  />
@@ -18,6 +18,25 @@
 	</div>
 </div>
 
+Map
+
+<div id="map"></div>
+
+Text
+
+[dorohovo-zvenigorod.gpx](dorohovo-zvenigorod.gpx)
 
 
+<script src="https://api.mapbox.com/mapbox-gl-js/v2.14.1/mapbox-gl.js"></script>
+
+<script src="../assets-custom/js/gpx2mapbox.js"></script>
+
+<script>
+	initializeGPXMap({
+		gpxFilePath: 'dorohovo-zvenigorod.gpx',
+		center: [37.6173, 55.7558],
+		zoom: 6, 
+		containerId: 'map'
+	});
+</script>
 
