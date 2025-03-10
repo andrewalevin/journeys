@@ -43,7 +43,6 @@ Text
 <script>
 	initializeGPXMap({
 		gpxFilePath: 'tver-toporok.gpx',
-		mapHeight: '300px',
 		center: [37.6173, 55.7558],
 		zoom: 6, 
 		containerId: 'map'

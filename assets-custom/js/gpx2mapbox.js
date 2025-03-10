@@ -16,14 +16,10 @@ mapboxgl.accessToken = 'pk.eyJ1IjoiYW5kcmV3bGV2aW4iLCJhIjoiY2t5ZXM5c3cyMWJxYjJvc
 function initializeGPXMap(config) {
     const {
         containerId,
-        accessToken,
         gpxFilePath,
         center = [37.618423, 55.751244], // Moscow
         zoom = 4
     } = config;
-
-    // Set the map container height (optional)
-    document.getElementById(containerId).style.height = "70vh";
 
 
     const map = new mapboxgl.Map({
