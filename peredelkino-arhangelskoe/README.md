@@ -18,5 +18,30 @@
 	</div>
 </div>
 
+Map
+
+<div id="map"></div>
+
+Text
 
 [peredelkino-arhangelskoe.gpx](peredelkino-arhangelskoe.gpx)
+
+
+
+
+
+
+
+<script src="https://api.mapbox.com/mapbox-gl-js/v2.14.1/mapbox-gl.js"></script>
+
+<script src="../assets-custom/js/gpx2mapbox.js"></script>
+
+<script>
+	initializeGPXMap({
+		gpxFilePath: 'peredelkino-arhangelskoe.gpx',
+		mapHeight: '300px',
+		center: [37.6173, 55.7558],
+		zoom: 6, 
+		containerId: 'map'
+	});
+</script>

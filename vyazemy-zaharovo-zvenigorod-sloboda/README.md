@@ -18,4 +18,32 @@
 	</div>
 </div>
 
-[vyazemy-zaharovo-zvenigorod-sloboda.gpx](vyazemy-zaharovo-zvenigorod-sloboda.gpx)Description will be later
+Map
+
+<div id="map"></div>
+
+Text
+
+[vyazemy-zaharovo-zvenigorod-sloboda.gpx](vyazemy-zaharovo-zvenigorod-sloboda.gpx)
+
+
+
+
+
+
+
+
+
+<script src="https://api.mapbox.com/mapbox-gl-js/v2.14.1/mapbox-gl.js"></script>
+
+<script src="../assets-custom/js/gpx2mapbox.js"></script>
+
+<script>
+	initializeGPXMap({
+		gpxFilePath: 'vyazemy-zaharovo-zvenigorod-sloboda.gpx',
+		mapHeight: '300px',
+		center: [37.6173, 55.7558],
+		zoom: 6, 
+		containerId: 'map'
+	});
+</script>

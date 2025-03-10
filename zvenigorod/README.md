@@ -82,8 +82,6 @@ Text
 
 <script src="https://api.mapbox.com/mapbox-gl-js/v2.14.1/mapbox-gl.js"></script>
 
-
-<!-- GPX2Mapbox Script -->
 <script src="../assets-custom/js/gpx2mapbox.js"></script>
 
 <script>

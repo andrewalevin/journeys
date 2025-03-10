@@ -60,3 +60,7 @@
 
 
 
+
+.mapboxgl-control-container {
+    display: none !important;
+}
