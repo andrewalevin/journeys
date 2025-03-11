@@ -17,7 +17,7 @@
     display: flex;
     flex-flow: column;
     justify-content: end;
-    margin-bottom: 3rem;
+    margin-bottom: 2rem;
 }
 .cover-text {
     padding: 2rem 3rem;
