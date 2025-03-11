@@ -1,8 +1,4 @@
 
----
-title: 1-2-3-Абрамтцево и Сергиев Посад
----
-
 
 <link rel="stylesheet" href="../assets-custom/css/style-markdown.css">
 <div class="cover-container" style="background-image: url('abramtsevo.jpg'); background-position-y: 50%;">
