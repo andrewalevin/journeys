@@ -1,8 +1,5 @@
 ---
-layout: default
 title: 1-2-3-Абрамтцево и Сергиев Посад
-description: 1-2-3-Абрамтцево и Сергиев Посад
-image: abramtsevo.jpg
 ---
 
 
