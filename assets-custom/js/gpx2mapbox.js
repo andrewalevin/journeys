@@ -18,7 +18,7 @@ function initializeGPXMap(config) {
         gpxFilePath,
         containerId= 'map',
         center = [37.618423, 55.751244], // Moscow
-        zoom = 4
+        zoom = 5
     } = config;
 
 
