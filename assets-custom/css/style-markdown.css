@@ -70,3 +70,7 @@
     height: 70vh;
     margin-bottom: 3rem;
 }
+
+.markdown-body{
+    margin-top: 8rem!important;
+}
