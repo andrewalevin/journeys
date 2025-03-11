@@ -29,9 +29,7 @@ Text
 
 
 
-
-
-
 <script src="https://api.mapbox.com/mapbox-gl-js/v2.14.1/mapbox-gl.js"></script>
 <script src="../assets-custom/js/gpx2mapbox.js"></script>
 <script>initializeGPXMap({gpxFilePath: 'peredelkino-meshersky-park.gpx'});</script>
+

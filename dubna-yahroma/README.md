@@ -36,9 +36,7 @@ Text
 
 <script src="../assets-custom/js/gpx2mapbox.js"></script>
 
-<script>
-	initializeGPXMap({gpxFilePath: 'dubna-yahroma.gpx'});
-</script>
+<script>initializeGPXMap({gpxFilePath: 'dubna-yahroma.gpx'});</script>
 
 
 
