@@ -22,11 +22,11 @@ Map
 
 <div id="map"></div>
 
-Text
-
 [vyazemy-zaharovo-zvenigorod-sloboda.gpx](vyazemy-zaharovo-zvenigorod-sloboda.gpx)
 
+⏳ Короткое описание появится в ближайшее время.
 
+⌛ Подробное описание с красивыми картинками появятся по мере сил и творческого вдохновения.
 
 
 

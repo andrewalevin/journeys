@@ -22,11 +22,11 @@ Map
 
 <div id="map"></div>
 
-Text
-
 [peredelkino-meshersky-park.gpx](peredelkino-meshersky-park.gpx)
 
+⏳ Короткое описание появится в ближайшее время.
 
+⌛ Подробное описание с красивыми картинками появятся по мере сил и творческого вдохновения.
 
 
 <script src="https://api.mapbox.com/mapbox-gl-js/v2.14.1/mapbox-gl.js"></script>

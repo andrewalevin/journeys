@@ -22,11 +22,13 @@ Map
 
 <div id="map"></div>
 
-Text
 
 [peredelkino-arhangelskoe.gpx](peredelkino-arhangelskoe.gpx)
 
 
+⏳ Короткое описание появится в ближайшее время.
+
+⌛ Подробное описание с красивыми картинками появятся по мере сил и творческого вдохновения.
 
 
 

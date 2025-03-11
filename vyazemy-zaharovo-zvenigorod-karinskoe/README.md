@@ -22,11 +22,11 @@ Map
 
 <div id="map"></div>
 
-Text
-
 [vyazemy-zaharovo-zvenigorod-karinskoe.gpx](vyazemy-zaharovo-zvenigorod-karinskoe.gpx)
 
+⏳ Короткое описание появится в ближайшее время.
 
+⌛ Подробное описание с красивыми картинками появятся по мере сил и творческого вдохновения.
 
 
 
