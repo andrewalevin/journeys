@@ -1,9 +1,3 @@
----
-layout: default
-title: Абрамтцево и Сергиев Посад
-description: Абрамтцево и Сергиев Посад
-image: abramtsevo.jpg
----
 
 
 <link rel="stylesheet" href="../assets-custom/css/style-markdown.css">
