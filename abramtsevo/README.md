@@ -1,7 +1,11 @@
 
-<meta property="og:title" content="Абрамтцево">
-<meta property="og:description" content="Прогулка на весь день">
-<meta property="og:image" content="https://andrewalevin.github.io/journeys/abramtsevo/abramtsevo.jpg">
+---
+layout: default
+title: Абрамтцево
+og_title: Абрамтцево
+og_description: Прогулка на весь день
+og_image: https://andrewalevin.github.io/journeys/abramtsevo/abramtsevo.jpg
+---
 
 
 <link rel="stylesheet" href="../assets-custom/css/style-markdown.css">
