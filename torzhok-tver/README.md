@@ -20,8 +20,8 @@
 
 <div id="map"></div>
 
+[📍GPX трек torzhok-tver.gpx](torzhok-tver.gpx)
 
-[torzhok-tver.gpx](torzhok-tver.gpx)
 
 ⏳ Короткое описание появится в ближайшее время.
 

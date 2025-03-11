@@ -20,7 +20,7 @@
 
 <div id="map"></div>
 
-[dorohovo-zvenigorod.gpx](dorohovo-zvenigorod.gpx)
+[📍GPX трек dorohovo-zvenigorod.gpx](dorohovo-zvenigorod.gpx)
 
 
 ⏳ Короткое описание появится в ближайшее время.

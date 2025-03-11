@@ -20,9 +20,7 @@
 
 <div id="map"></div>
 
-Text
-
-[poluchkino-zvenigorod.gpx](poluchkino-zvenigorod.gpx)
+[📍GPX трек poluchkino-zvenigorod.gpx](poluchkino-zvenigorod.gpx)
 
 
 ⏳ Короткое описание появится в ближайшее время.

@@ -20,7 +20,7 @@
 
 <div id="map"></div>
 
-[vyazemy-zaharovo-zvenigorod-sloboda.gpx](vyazemy-zaharovo-zvenigorod-sloboda.gpx)
+[📍GPX трек vyazemy-zaharovo-zvenigorod-sloboda.gpx](vyazemy-zaharovo-zvenigorod-sloboda.gpx)
 
 ⏳ Короткое описание появится в ближайшее время.
 

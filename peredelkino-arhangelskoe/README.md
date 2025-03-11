@@ -20,8 +20,7 @@
 
 <div id="map"></div>
 
-
-[peredelkino-arhangelskoe.gpx](peredelkino-arhangelskoe.gpx)
+[📍GPX трек peredelkino-arhangelskoe.gpx](peredelkino-arhangelskoe.gpx)
 
 
 ⏳ Короткое описание появится в ближайшее время.

@@ -20,7 +20,7 @@
 
 <div id="map"></div>
 
-[tver-toporok.gpx](tver-toporok.gpx)
+[📍GPX трек tver-toporok.gpx](tver-toporok.gpx)
 
 
 ⏳ Короткое описание появится в ближайшее время.

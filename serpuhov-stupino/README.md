@@ -18,11 +18,9 @@
 	</div>
 </div>
 
-
 <div id="map"></div>
 
-
-[serpuhov-stupino.gpx](serpuhov-stupino.gpx)
+[📍GPX трек serpuhov-stupino.gpx](serpuhov-stupino.gpx)
 
 
 ⏳ Короткое описание появится в ближайшее время.

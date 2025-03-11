@@ -20,7 +20,8 @@
 
 <div id="map"></div>
 
-[peredelkino-meshersky-park.gpx](peredelkino-meshersky-park.gpx)
+[📍GPX трек peredelkino-meshersky-park.gpx](peredelkino-meshersky-park.gpx)
+
 
 ⏳ Короткое описание появится в ближайшее время.
 

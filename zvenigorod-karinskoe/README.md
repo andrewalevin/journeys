@@ -22,7 +22,7 @@
 <div id="map"></div>
 
 
-[zvenigorod-karinskoe.gpx](zvenigorod-karinskoe.gpx)
+[📍GPX трек zvenigorod-karinskoe.gpx](zvenigorod-karinskoe.gpx)
 
 ⏳ Короткое описание появится в ближайшее время.
 

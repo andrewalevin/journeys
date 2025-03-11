@@ -20,7 +20,7 @@
 
 <div id="map"></div>
 
-[dmitrov-konakovo.gpx](dmitrov-konakovo.gpx)
+[📍GPX трек dmitrov-konakovo.gpx](dmitrov-konakovo.gpx)
 
 
 ⏳ Короткое описание появится в ближайшее время.

@@ -21,7 +21,7 @@
 
 <div id="map"></div>
 
-[vyazemy-zaharovo-zvenigorod-karinskoe.gpx](vyazemy-zaharovo-zvenigorod-karinskoe.gpx)
+[📍GPX трек vyazemy-zaharovo-zvenigorod-karinskoe.gpx](vyazemy-zaharovo-zvenigorod-karinskoe.gpx)
 
 ⏳ Короткое описание появится в ближайшее время.
 

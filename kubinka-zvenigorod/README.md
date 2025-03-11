@@ -18,12 +18,9 @@
 	</div>
 </div>
 
-
 <div id="map"></div>
 
-Text
-
-[kubinka-zvenigorod.gpx](kubinka-zvenigorod.gpx)
+[📍GPX трек kubinka-zvenigorod.gpx](kubinka-zvenigorod.gpx)
 
 
 ⏳ Короткое описание появится в ближайшее время.

@@ -20,7 +20,7 @@
 
 <div id="map"></div>
 
-[borodino-mozshaysk.gpx](borodino-mozshaysk.gpx)
+[📍GPX трек borodino-mozshaysk.gpx](borodino-mozshaysk.gpx)
 
 
 ⏳ Короткое описание появится в ближайшее время.
