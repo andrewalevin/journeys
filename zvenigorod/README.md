@@ -9,11 +9,11 @@
 		<div class="cover-title">Звенигород</div>
 		<div class="cover-description">
 			<div>
-                <img class="cover-icon" src="../assets-custom/footsteps-96.png" loading="lazy" alt="" />
+                <img class="cover-icon" src="../assets-custom/icon-footsteps.png" loading="lazy" alt="" />
                 <span>Пешком</span>
             </div>
             <div>
-                <img class="cover-icon" loading="lazy" src="../assets-custom/icon_time.png" alt=""  />
+                <img class="cover-icon" loading="lazy" src="../assets-custom/icon-time.png" alt=""  />
                 <span>1 день</span>
             </div>
 		</div>
