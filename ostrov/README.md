@@ -3,7 +3,7 @@
 <div class="cover-container" style="background-image: url('ostrov-1600.jpg');">
 	<div class="cover-text">
 		<div class="cover-title">
-            Остров
+            Остров 🔒 - секретный маршрут
         </div>
 		<div class="cover-description">
 			<div class="packages-location">
