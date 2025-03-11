@@ -18,8 +18,6 @@
 	</div>
 </div>
 
-Map
-
 <div id="map"></div>
 
 [tutaev.gpx](tutaev.gpx)

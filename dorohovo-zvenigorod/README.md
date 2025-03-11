@@ -18,11 +18,7 @@
 	</div>
 </div>
 
-Map
-
 <div id="map"></div>
-
-Text
 
 [dorohovo-zvenigorod.gpx](dorohovo-zvenigorod.gpx)
 

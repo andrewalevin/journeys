@@ -18,11 +18,7 @@
 	</div>
 </div>
 
-Map
-
 <div id="map"></div>
-
-Text
 
 [borodino-mozshaysk.gpx](borodino-mozshaysk.gpx)
 

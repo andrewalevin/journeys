@@ -18,11 +18,7 @@
 	</div>
 </div>
 
-Map
-
 <div id="map"></div>
-
-Text
 
 [dmitrov-konakovo.gpx](dmitrov-konakovo.gpx)
 

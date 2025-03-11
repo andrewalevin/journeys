@@ -18,8 +18,6 @@
 	</div>
 </div>
 
-Map
-
 <div id="map"></div>
 
 [tver-toporok.gpx](tver-toporok.gpx)

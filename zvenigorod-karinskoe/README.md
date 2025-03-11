@@ -18,11 +18,9 @@
 	</div>
 </div>
 
-Map
 
 <div id="map"></div>
 
-Text
 
 [zvenigorod-karinskoe.gpx](zvenigorod-karinskoe.gpx)
 

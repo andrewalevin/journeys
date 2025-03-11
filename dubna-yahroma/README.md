@@ -18,11 +18,7 @@
 	</div>
 </div>
 
-Map
-
 <div id="map"></div>
-
-Text
 
 [📍 GPX track dubna-yahroma.gpx](dubna-yahroma.gpx)
 

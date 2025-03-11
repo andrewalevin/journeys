@@ -18,8 +18,6 @@
 	</div>
 </div>
 
-Map
-
 <div id="map"></div>
 
 [vyazemy-zaharovo-zvenigorod-sloboda.gpx](vyazemy-zaharovo-zvenigorod-sloboda.gpx)

@@ -18,8 +18,6 @@
 	</div>
 </div>
 
-Map
-
 <div id="map"></div>
 
 [peredelkino-meshersky-park.gpx](peredelkino-meshersky-park.gpx)

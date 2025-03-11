@@ -18,7 +18,7 @@
 	</div>
 </div>
 
-Map
+
 
 <div id="map"></div>
 
