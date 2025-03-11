@@ -57,14 +57,9 @@
     background-color: transparent !important;
 }
 
-
-
-
-
 .mapboxgl-control-container {
     display: none !important;
 }
-
 
 #map {
     height: 70vh;
