@@ -1,9 +1,8 @@
 ---
 layout: default
-title: Абрамтцево
-og_title: Абрамтцево
-og_description: Прогулка на весь день
-og_image: https://andrewalevin.github.io/journeys/abramtsevo/abramtsevo.jpg
+title: Абрамтцево и Сергиев Посад
+description: Абрамтцево и Сергиев Посад
+image: abramtsevo.jpg
 ---
 
 
