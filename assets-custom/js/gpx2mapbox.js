@@ -104,7 +104,7 @@ function initializeGPXMap(config) {
                 // First fit bounds (just width padding)
                 map.fitBounds(bounds, {
                     padding: { left: 100, right: 100, top: 0, bottom: 0 },
-                    duration: 5000
+                    duration: 7000
                 });
 
             })
