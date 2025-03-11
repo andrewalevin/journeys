@@ -37,12 +37,4 @@ Text
 
 <script src="../assets-custom/js/gpx2mapbox.js"></script>
 
-<script>
-	initializeGPXMap({
-		gpxFilePath: 'poluchkino-zvenigorod.gpx',
-		mapHeight: '300px',
-		center: [37.6173, 55.7558],
-		zoom: 6, 
-		containerId: 'map'
-	});
-</script>
+<script>initializeGPXMap({gpxFilePath: 'poluchkino-zvenigorod.gpx'});</script>

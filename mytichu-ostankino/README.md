@@ -34,10 +34,6 @@ Text
 <script src="../assets-custom/js/gpx2mapbox.js"></script>
 
 <script>
-	initializeGPXMap({
-		gpxFilePath: 'mytichu-ostankino.gpx',
-		center: [37.6173, 55.7558],
-		zoom: 6, 
-		containerId: 'map'
-	});
+	initializeGPXMap({gpxFilePath: 'mytichu-ostankino.gpx'});
 </script>
+
