@@ -29,11 +29,11 @@
 <script src="https://api.mapbox.com/mapbox-gl-js/v3.10.0/mapbox-gl.js"></script>
 <script src="https://cdn.jsdelivr.net/npm/js-yaml@4.1.0/dist/js-yaml.min.js"></script>
 <script src="../assets-custom/js/cozy-journey.js"></script>
-<script>
-	architectMap({tracks: [
+<script>architectMap({
+    tracks: [
         {path: 'tula-gorod-bus.gpx', color: 'blue'},
         {path: 'yasnaya-bus.gpx', color: 'blue'},
         {path: 'tula-hike.gpx'},
-        {path: 'yasnsya-hike.gpx'}
-    ], points: 'points.yaml'});
+        {path: 'yasnsya-hike.gpx'}], 
+    points: 'points.yaml'});
 </script>
