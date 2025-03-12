@@ -35,7 +35,8 @@
 <script src="https://cdn.jsdelivr.net/npm/js-yaml@4.1.0/dist/js-yaml.min.js"></script>
 <script src="../assets-custom/js/cozy-journey.js"></script>
 <script>architectMap({
-    tracks: [{path: 'dorohovo-zvenigorod.gpx'}]
+    tracks: [{path: 'dorohovo-zvenigorod.gpx'}],
+    points: 'points.yaml'
     });
 </script>
 
