@@ -239,7 +239,7 @@ function architectMap(config) {
             const link = point.link ? `<a href="${point.link}" target="_blank">${point.link}</a>` : '';
             const popup = new mapboxgl.Popup({ offset: 40 })
                 .setHTML(`
-                    ${title}
+                    <h3>${title}</h3>
                     ${description}
                     ${link}
                   `);
