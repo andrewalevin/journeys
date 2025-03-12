@@ -1,16 +1,30 @@
+- title: ЖД Станция Кострома-Новая
+  coordinates: [57.758927, 40.979960]
+  links: [https://yandex.ru/maps/-/CHB~jNpm]
 - title: Ипатьевский монастырь
   coordinates: [57.777076, 40.893856]
+  links: [https://yandex.ru/maps/-/CHB~jVzm]
 - title: Слобода
   coordinates: [57.775411, 40.889454]
+  links: [https://yandex.ru/maps/-/CHB~jG67]
 - title: Художественный музей
   coordinates: [57.769617, 40.929763]
+  links: [https://yandex.ru/maps/-/CHB~jOMl]
 - title: Беседка Островского
   coordinates: [57.761776, 40.928748]
-- title:
-  coordinates: []
-- title:
-  coordinates: []
-- title:
-  coordinates: []
-- title:
-  coordinates: []
+  links: [https://yandex.ru/maps/-/CHB~j0Za]
+- title: Музей костромского дворянства
+  coordinates: [57.769971, 40.930722]
+  links: [https://yandex.ru/maps/-/CHB~jSov]
+- title: Старая пристань, рестрона и дебаркадр
+  coordinates: [57.764265, 40.919653]
+  links: [https://yandex.ru/maps/-/CHB~jH-g]
+- title: Музей природы
+  coordinates: [57.765902, 40.923996]
+  links: [https://yandex.ru/maps/-/CHB~jPzl]
+- title: Богоявленский собор
+  coordinates: [57.765902, 40.923996]
+  links: [https://yandex.ru/maps/-/CHB~nAm-]
+- title: Ресторан Гроза
+  coordinates: [57.769174, 40.930185]
+  links: [https://yandex.ru/maps/-/CHB~nMkC]
