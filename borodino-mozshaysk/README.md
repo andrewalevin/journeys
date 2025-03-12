@@ -18,7 +18,7 @@
 	</div>
 </div>
 
-tracks
+<div id="map"></div>
 
 [📍GPX трек borodino-mozshaysk.gpx](borodino-mozshaysk.gpx)
 
