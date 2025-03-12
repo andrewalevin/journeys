@@ -16,3 +16,12 @@
 - title: ЖД станция Сколково
   coordinates: [55.700095, 37.342531]
   links: [https://yandex.ru/maps/-/CHFA5Klv]
+- title: Музей-заповедник Архангельское
+  coordinates: [55.784558, 37.284038]
+  links: [https://yandex.ru/maps/-/CHFA507t]
+- title:
+  coordinates: []
+  links: []
+- title: ЖД станция Красногорская
+  coordinates: [55.814745, 37.303141]
+  links: [https://yandex.ru/maps/-/CHFA5Dl3]
