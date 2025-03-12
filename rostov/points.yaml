@@ -1,16 +1,33 @@
+- title: ЖД станция Ростов-Ярославский
+  coordinates: [57.198005, 39.407148]
+  links: [https://yandex.ru/maps/-/CHFAY-2C]
+- title: Ростовский Кремль
+  coordinates: [57.184438, 39.415192]
+  links: [https://yandex.ru/maps/-/CHFAYLix]
+- title: Спасо-Яковлевский Димитриев монастырь
+  coordinates: [57.174464, 39.392650]
+  links: [https://yandex.ru/maps/-/CHFAYTmM]
+- title: Рождественский монастырь
+  coordinates: [57.185127, 39.420961]
+  links: [https://yandex.ru/maps/-/CHFAY265]
+- title: Борисоглебский монастырь
+  coordinates: [57.258462, 39.152248]
+  links: [https://yandex.ru/maps/-/CHFA4Ez2]
 - title:
   coordinates: []
+  links: []
 - title:
   coordinates: []
+  links: []
 - title:
   coordinates: []
+  links: []
 - title:
   coordinates: []
+  links: []
 - title:
   coordinates: []
+  links: []
 - title:
   coordinates: []
-- title:
-  coordinates: []
-- title:
-  coordinates: []
+  links: []
