@@ -69,3 +69,30 @@
 - title:
   coordinates: []
   links: []
+- title: ЖД Станция Голицыно
+  coordinates: [55.615089, 36.986889]
+  links: [https://yandex.ru/maps/-/CHFAfTNb]
+- title: Усадьба Большие Вязёмы
+  coordinates: [55.628536, 36.991577]
+  links: [https://yandex.ru/maps/-/CHFAfTPB]
+- title: Звонница Преображенской церкви
+  coordinates: [55.628002, 36.990393]
+  links: [https://yandex.ru/maps/-/CHFAfXmz]
+- title: ЖД Станция Захарово
+  coordinates: [55.646970, 36.976272]
+  links: [https://yandex.ru/maps/-/CHFAfXZL]
+- title: Усадьба Захарово
+  coordinates: [55.646115, 36.969832]
+  links: [https://yandex.ru/maps/-/CHFAfXnK]
+- title: Памятник А.С. Пушкину
+  coordinates: [55.644717, 36.970194]
+  links: [https://yandex.ru/maps/-/CHFAfX-V]
+- title:
+  coordinates: []
+  links: []
+- title:
+  coordinates: []
+  links: []
+- title:
+  coordinates: []
+  links: []
