@@ -34,5 +34,5 @@
 <script src="https://api.mapbox.com/mapbox-gl-js/v3.10.0/mapbox-gl.js"></script>
 <script src="https://cdn.jsdelivr.net/npm/js-yaml@4.1.0/dist/js-yaml.min.js"></script>
 <script src="../assets-custom/js/cozy-journey.js"></script>
-<script>architectMap({gpxFilePath: 'dorohovo-zvenigorod.gpx'});</script>
+<script>architectMap({tracks: 'dorohovo-zvenigorod.gpx'});</script>
 

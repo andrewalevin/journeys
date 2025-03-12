@@ -178,12 +178,12 @@ function getBounds(coordinates) {
 // === CONFIGURATION ===
 mapboxgl.accessToken = 'pk.eyJ1IjoiYW5kcmV3bGV2aW4iLCJhIjoiY2t5ZXM5c3cyMWJxYjJvcGJycmw0dGlyeSJ9.9QfCmimkyYicpprraBc-XQ'; // Replace with your token
 
-function architectMap(config) {
+function architectMap(configInit) {
     (async () => {
-        const {
-            gpxTracks = [],
-            yamlPoints = ''
-        } = config;
+        let config = {
+            tracks: configInit?.tracks ?? [],
+            points: configInit?.points ?? ''
+        };
 
 
         const map = new mapboxgl.Map({
@@ -197,9 +197,9 @@ function architectMap(config) {
             map.on('load', resolve);
         });
 
-        const pathTracks = gpxTracks.map(track => track.path)
+        const pathTracks = config.tracks.map(track => track.path)
         const [coordinatesTracks, pointsRaw] = await Promise.all([
-            Promise.all(pathTracks.map(fetchTrack)), fetchYaml(yamlPoints), mapLoadPromise
+            Promise.all(pathTracks.map(fetchTrack)), fetchYaml(config.points), mapLoadPromise
         ]);
 
         console.log('🟢 pointsRaw: ', pointsRaw);
@@ -208,7 +208,7 @@ function architectMap(config) {
             : [];
         console.log('🟢 points: ', points);
 
-        const tracks = gpxTracks.map((track, index) => ({
+        const tracks = config.tracks.map((track, index) => ({
             ...track, coordinates: coordinatesTracks[index],
         }));
         console.log('🟢 tracks: ', tracks);
