@@ -22,12 +22,6 @@
 
 [📍GPX трек vyazemy-zaharovo-zvenigorod-sloboda.gpx](vyazemy-zaharovo-zvenigorod-sloboda.gpx)
 
-⏳ Короткое описание появится в ближайшее время.
-
-⌛ Подробное описание с красивыми картинками появятся по мере сил и творческого вдохновения.
-
-
-
 
 
 
@@ -36,4 +30,7 @@
 <script src="https://api.mapbox.com/mapbox-gl-js/v3.10.0/mapbox-gl.js"></script>
 <script src="https://cdn.jsdelivr.net/npm/js-yaml@4.1.0/dist/js-yaml.min.js"></script>
 <script src="../assets-custom/js/cozy-journey.js"></script>
-<script>architectMap({tracks: 'vyazemy-zaharovo-zvenigorod-sloboda.gpx'});</script>
+<script>architectMap({
+    tracks: [{path: 'vyazemy-zaharovo-zvenigorod-sloboda.gpx'}],
+    points:  'points.yaml'});
+</script>
