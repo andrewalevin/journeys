@@ -202,11 +202,14 @@ function architectMap(config) {
             Promise.all(pathTracks.map(fetchTrack)), fetchYaml(yamlPoints), mapLoadPromise
         ]);
 
+        console.log('🟢 pointsRaw: ', pointsRaw);
         const points = pointsRaw.filter(item => item.coordinates.length > 0);
+        console.log('🟢 points: ', points);
 
         const tracks = gpxTracks.map((track, index) => ({
             ...track, coordinates: coordinatesTracks[index],
         }));
+        console.log('🟢 tracks: ', tracks);
 
         tracks.forEach(track => {
             map.addSource('track' + track.path, {
