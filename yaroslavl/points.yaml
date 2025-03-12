@@ -1,16 +1,36 @@
-- title:
-  coordinates: []
-- title:
-  coordinates: []
-- title:
-  coordinates: []
-- title:
-  coordinates: []
-- title:
-  coordinates: []
-- title:
-  coordinates: []
-- title:
-  coordinates: []
-- title:
-  coordinates: []
+- title: ЖД Станция Ярославль-Главный
+  coordinates: [57.625575, 39.835089]
+  links: [https://yandex.ru/maps/-/CHB~nK~O]
+- title: ЖД станция Ярославль (Московский вокзал)
+  coordinates: [57.600676, 39.872013]
+  links: [https://yandex.ru/maps/-/CHB~n03N]
+- title: Ярославский кремль
+  coordinates: [57.621639, 39.888576]
+  links: [https://yandex.ru/maps/-/CHB~nDIc]
+- title: Знаменская башня
+  coordinates: [57.625342, 39.884967]
+  links: [https://yandex.ru/maps/-/CHB~nH9i]
+- title: Ильинская церковь на главной площади
+  coordinates: [57.626759, 39.894358]
+  links: [https://yandex.ru/maps/-/CHB~nPjN]
+- title: Художественный музей
+  coordinates: [57.628283, 39.897189]
+  links: [https://yandex.ru/maps/-/CHB~nXZE]
+- title: Музей зарубежного искусства
+  coordinates: [57.626976, 39.895938]
+  links: [https://yandex.ru/maps/-/CHB~rE5h]
+- title: Причал и широкий пирс
+  coordinates: [57.633557, 39.894449]
+  links: [https://yandex.ru/maps/-/CHB~rMNp]
+- title: Успенский собор
+  coordinates: [57.622415, 39.902063]
+  links: [https://yandex.ru/maps/-/CHB~rY7L]
+- title: Беседка
+  coordinates: [57.621436, 39.902047]
+  links: [https://yandex.ru/maps/-/CHB~rBoj]
+- title: Буфет и гастроном
+  coordinates: [57.623176, 39.890262]
+  links: [https://yandex.ru/maps/-/CHB~rJp6]
+- title: Храмовый комплекс в Коровниках
+  coordinates: [57.611277, 39.905863]
+  links: [https://yandex.ru/maps/-/CHB~rR~Z]
