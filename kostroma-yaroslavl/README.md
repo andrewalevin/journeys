@@ -32,7 +32,7 @@
 	architectMap({gpxTracks: [
         {path: 'kostroma-bus.gpx', color: 'blue'},
         {path: 'yaroslavl-bus.gpx', color: 'blue'},
-        {path: 'kostroma/kostroma-hike.gpx'},
+        {path: 'kostroma-hike.gpx'},
         {path: 'kostroma-sloboda-hike.gpx'},
         {path: 'yaroslavl-hike.gpx'}
     ], yamlPoints: 'points.yaml'});
