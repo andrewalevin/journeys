@@ -185,6 +185,8 @@ function architectMap(configInit) {
             points: configInit?.points ?? ''
         };
 
+        console.log('🟣 config: ', config);
+
 
         const map = new mapboxgl.Map({
             container: 'map',
