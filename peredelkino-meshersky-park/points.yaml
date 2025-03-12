@@ -1,21 +1,21 @@
+- title: ЖД станция Переделкино
+  coordinates: [55.656239, 37.354540]
+  links: [https://yandex.ru/maps/-/CHFA56l0]
+- title: Дом творчества писателей Переделкино
+  coordinates: [55.656974, 37.333789]
+  links: [https://yandex.ru/maps/-/CHFA5C-d]
+- title: Дом-музей Б. Л. Пастернака
+  coordinates: [55.661326, 37.333813]
+  links: [https://yandex.ru/maps/-/CHFA5G7H]
+- title: Парк Мещерский
+  coordinates: [55.669511, 37.370325]
+  links: [https://yandex.ru/maps/-/CHFA5K4~]
 - title:
   coordinates: []
   links: []
-- title:
-  coordinates: []
-  links: []
-- title:
-  coordinates: []
-  links: []
-- title:
-  coordinates: []
-  links: []
-- title:
-  coordinates: []
-  links: []
-- title:
-  coordinates: []
-  links: []
+- title: ЖД станция Сколково
+  coordinates: [55.700095, 37.342531]
+  links: [https://yandex.ru/maps/-/CHFA5Klv]
 - title:
   coordinates: []
   links: []
