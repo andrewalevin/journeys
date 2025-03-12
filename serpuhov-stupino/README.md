@@ -3,7 +3,7 @@
 <div class="cover-container" style="background-image: url('zubry-1600.jpg');">
 	<div class="cover-text">
 		<div class="cover-title">
-            Серпухов - Сутпино
+            Серпухов - Ступино
         </div>
 		<div class="cover-description">
 			<div class="packages-location">
