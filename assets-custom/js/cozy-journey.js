@@ -212,6 +212,7 @@ function architectMap(config) {
         console.log('🟢 tracks: ', tracks);
 
         tracks.forEach(track => {
+            console.log('🟢 track: ', track);
             map.addSource('track' + track.path, {
                 'type': 'geojson',
                 'data': {
@@ -239,6 +240,8 @@ function architectMap(config) {
         })
 
         points.forEach(point => {
+            console.log('🟢 point: ', point);
+
             const title = point?.title || point.coordinates;
             const description = point?.description ? `<p>${point?.description}</p>` : '';
             const link = point.link ? `<a href="${point.link}" target="_blank">${point.link}</a>` : '';
