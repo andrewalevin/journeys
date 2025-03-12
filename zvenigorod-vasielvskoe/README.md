@@ -18,13 +18,11 @@
 	</div>
 </div>
 
-
-
 <div id="map"></div>
 
-Text
-
 [📍GPX трек zvenigorod-vasielvskoe.gpx](zvenigorod-vasielvskoe.gpx)
+
+
 
 ⏳ Короткое описание появится в ближайшее время.
 
