@@ -35,7 +35,7 @@
 <script>
 	architectMap({tracks: [
 {path: 'abramtsevo-ot-platformy.gpx'}, 
-{path: 'abramtsevo-park.gpx'}, {path: 'posad.gpx'}], yamlPoints: 'points.yaml'});
+{path: 'abramtsevo-park.gpx'}, {path: 'posad.gpx'}], points: 'points.yaml'});
 </script>
 
 

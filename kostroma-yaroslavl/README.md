@@ -35,5 +35,5 @@
         {path: 'kostroma-hike.gpx'},
         {path: 'kostroma-sloboda-hike.gpx'},
         {path: 'yaroslavl-hike.gpx'}
-    ], yamlPoints: 'points.yaml'});
+    ], points: 'points.yaml'});
 </script>

@@ -33,5 +33,5 @@
         {path: 'kostroma-bus.gpx', color: 'blue'},
         {path: 'kostroma-hike.gpx'},
         {path: 'kostroma-sloboda-hike.gpx'}
-    ], yamlPoints: 'points.yaml'});
+    ], points: 'points.yaml'});
 </script>

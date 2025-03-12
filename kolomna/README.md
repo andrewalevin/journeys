@@ -32,5 +32,5 @@
 <script>
 	architectMap({tracks: [
         {path: 'kolomna-hike.gpx'}
-    ], yamlPoints: 'points.yaml'});
+    ], points: 'points.yaml'});
 </script>

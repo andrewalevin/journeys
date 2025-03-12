@@ -35,5 +35,5 @@
         {path: 'yasnaya-bus.gpx', color: 'blue'},
         {path: 'tula-hike.gpx'},
         {path: 'yasnsya-hike.gpx'}
-    ], yamlPoints: 'points.yaml'});
+    ], points: 'points.yaml'});
 </script>
