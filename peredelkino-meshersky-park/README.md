@@ -28,7 +28,9 @@
 ⌛ Подробное описание с красивыми картинками появятся по мере сил и творческого вдохновения.
 
 
-<script src="https://api.mapbox.com/mapbox-gl-js/v2.14.1/mapbox-gl.js"></script>
-<script src="../assets-custom/js/gpx2mapbox.js"></script>
-<script>initializeGPXMap({gpxFilePath: 'peredelkino-meshersky-park.gpx'});</script>
+<link href="https://api.mapbox.com/mapbox-gl-js/v3.10.0/mapbox-gl.css" rel="stylesheet">
+<script src="https://api.mapbox.com/mapbox-gl-js/v3.10.0/mapbox-gl.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/js-yaml@4.1.0/dist/js-yaml.min.js"></script>
+<script src="../assets-custom/js/cozy-journey.js"></script>
+<script>architectMap({gpxFilePath: 'peredelkino-meshersky-park.gpx'});</script>
 
