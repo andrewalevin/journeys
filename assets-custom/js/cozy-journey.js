@@ -198,9 +198,11 @@ function architectMap(config) {
         });
 
         const pathTracks = gpxTracks.map(track => track.path)
-        const [coordinatesTracks, points] = await Promise.all([
+        const [coordinatesTracks, pointsRaw] = await Promise.all([
             Promise.all(pathTracks.map(fetchTrack)), fetchYaml(yamlPoints), mapLoadPromise
         ]);
+
+        const points = pointsRaw.filter(item => item.coordinates.length > 0);
 
         const tracks = gpxTracks.map((track, index) => ({
             ...track, coordinates: coordinatesTracks[index],
@@ -251,6 +253,7 @@ function architectMap(config) {
 
         const trackCoordinatesFull = tracks.flatMap(track => track.coordinates);
         const pointCoordinatesFull = points.flatMap(point => [point.coordinates]);
+
         const bounds = getBounds([...trackCoordinatesFull, ...pointCoordinatesFull]);
         map.fitBounds(bounds, {padding: 50, duration: 5000});
     })();
