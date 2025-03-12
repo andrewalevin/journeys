@@ -1,16 +1,76 @@
+- title: ЖД станция Мытищи
+  coordinates: [55.914785, 37.761457]
+  links: [https://yandex.ru/maps/-/CHB~zWJX]
+- title: Ансамбль строений Мытищинской водоподъёмной станции
+  coordinates: [55.895578, 37.777765]
+  links: [https://yandex.ru/maps/-/CHB~vC0W]
+- title: Мытищинские плавни на Яузе, орнитологическая вышка
+  coordinates: [55.894854, 37.773053]
+  links: [https://yandex.ru/maps/-/CHB~vK-u]
+- title: Музей Метровагонмаш
+  coordinates: [55.910289, 37.766336]
+  links: [https://yandex.ru/maps/-/CHB~vSov]
+- title: Благовещения церковь в Тайнинском
+  coordinates: [55.901583, 37.692208]
+  links: [https://yandex.ru/maps/-/CHB~v8jo]
+- title: Памятник Императору Николаю II
+  coordinates: [55.899338, 37.689525]
+  links: [https://yandex.ru/maps/-/CHB~vDZ3]
+- title: Усадьба Свиблово
+  coordinates: [55.853433, 37.631666]
+  links: [https://yandex.ru/maps/-/CHB~vT5~]
+- title: Ростокинский акведук
+  coordinates: [55.828929, 37.655585]
+  links: [https://yandex.ru/maps/-/CHB~zIj3]
+- title: ВДНХ
+  coordinates: [55.826250, 37.637576]
+  links: [https://yandex.ru/maps/-/CHB~zMJc]
+- title: Главный ботанический сад РАН
+  coordinates: [55.840852, 37.605444]
+  links: [https://yandex.ru/maps/-/CHB~z4MO]
 - title:
   coordinates: []
+  links: []
 - title:
   coordinates: []
+  links: []
 - title:
   coordinates: []
+  links: []
 - title:
   coordinates: []
+  links: []
 - title:
   coordinates: []
+  links: []
 - title:
   coordinates: []
+  links: []
 - title:
   coordinates: []
+  links: []
 - title:
   coordinates: []
+  links: []
+- title:
+  coordinates: []
+  links: []
+- title:
+  coordinates: []
+  links: []
+- title:
+  coordinates: []
+  links: []
+- title:
+  coordinates: []
+  links: []
+- title:
+  coordinates: []
+  links: []
+- title:
+  coordinates: []
+  links: []
+- title:
+  coordinates: []
+  links: []
+
