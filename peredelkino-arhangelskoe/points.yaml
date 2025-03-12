@@ -19,12 +19,6 @@
 - title:
   coordinates: []
   links: []
-- title:
-  coordinates: []
-  links: []
-- title:
-  coordinates: []
-  links: []
 - title: Музей-заповедник Архангельское
   coordinates: [55.784558, 37.284038]
   links: [https://yandex.ru/maps/-/CHFA507t]
@@ -34,39 +28,6 @@
 - title: ЖД станция Красногорская
   coordinates: [55.814745, 37.303141]
   links: [https://yandex.ru/maps/-/CHFA5Dl3]
-- title:
-  coordinates: []
-  links: []
-- title:
-  coordinates: []
-  links: []
-- title:
-  coordinates: []
-  links: []
-- title:
-  coordinates: []
-  links: []
-- title:
-  coordinates: []
-  links: []
-- title:
-  coordinates: []
-  links: []
-- title:
-  coordinates: []
-  links: []
-- title:
-  coordinates: []
-  links: []
-- title:
-  coordinates: []
-  links: []
-- title:
-  coordinates: []
-  links: []
-- title:
-  coordinates: []
-  links: []
 - title:
   coordinates: []
   links: []
