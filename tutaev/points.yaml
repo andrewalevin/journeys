@@ -1,16 +1,96 @@
+- title: ЖД станция Волга
+  coordinates: [57.951291, 38.407034]
+  links: [https://yandex.ru/maps/-/CHFAe-2E]
+- title: ЖД станция Рыбинск
+  coordinates: [58.041722, 38.833809]
+  links: [https://yandex.ru/maps/-/CHFAiAOk]
+- title: Спасо-Преображенский собор
+  coordinates: [58.048281, 38.858883]
+  links: [https://yandex.ru/maps/-/CHFAiI1h]
+- title: Пожарная каланча
+  coordinates: [58.046466, 38.852742]
+  links: [https://yandex.ru/maps/-/CHFAiQmy]
 - title:
   coordinates: []
+  links: []
+- title: Колокольня Казанской церкви
+  coordinates: [57.880135, 39.536842]
+  links: [https://yandex.ru/maps/-/CHFAiBy6]
+- title: Крестовоздвиженский собор
+  coordinates: [57.878382, 39.545743]
+  links: [https://yandex.ru/maps/-/CHFAiN4e]
+- title: Пожарная каланча
+  coordinates: [57.882919, 39.543221]
+  links: [https://yandex.ru/maps/-/CHFAiRNe]
+- title: Леонтьевский арочный мостик
+  coordinates: [57.879883, 39.545947]
+  links: [https://yandex.ru/maps/-/CHFAiR3w]
 - title:
   coordinates: []
+  links: []
+- title: Толгский монастырь
+  coordinates: [57.696701, 39.827412]
+  links: [https://yandex.ru/maps/-/CHFAiZ7H]
 - title:
   coordinates: []
+  links: []
+- title: ЖД Станция Ярославль-Главный
+  coordinates: [57.625575, 39.835089]
+  links: [https://yandex.ru/maps/-/CHB~nK~O]
+- title: ЖД станция Ярославль (Московский вокзал)
+  coordinates: [57.600676, 39.872013]
+  links: [https://yandex.ru/maps/-/CHB~n03N]
+- title: Ярославский кремль
+  coordinates: [57.621639, 39.888576]
+  links: [https://yandex.ru/maps/-/CHB~nDIc]
+- title: Знаменская башня
+  coordinates: [57.625342, 39.884967]
+  links: [https://yandex.ru/maps/-/CHB~nH9i]
+- title: Ильинская церковь на главной площади
+  coordinates: [57.626759, 39.894358]
+  links: [https://yandex.ru/maps/-/CHB~nPjN]
+- title: Художественный музей
+  coordinates: [57.628283, 39.897189]
+  links: [https://yandex.ru/maps/-/CHB~nXZE]
+- title: Музей зарубежного искусства
+  coordinates: [57.626976, 39.895938]
+  links: [https://yandex.ru/maps/-/CHB~rE5h]
+- title: Причал и широкий пирс
+  coordinates: [57.633557, 39.894449]
+  links: [https://yandex.ru/maps/-/CHB~rMNp]
+- title: Успенский собор
+  coordinates: [57.622415, 39.902063]
+  links: [https://yandex.ru/maps/-/CHB~rY7L]
+- title: Беседка
+  coordinates: [57.621436, 39.902047]
+  links: [https://yandex.ru/maps/-/CHB~rBoj]
+- title: Буфет и гастроном
+  coordinates: [57.623176, 39.890262]
+  links: [https://yandex.ru/maps/-/CHB~rJp6]
+- title: Храмовый комплекс в Коровниках
+  coordinates: [57.611277, 39.905863]
+  links: [https://yandex.ru/maps/-/CHB~rR~Z]
 - title:
   coordinates: []
+  links: []
 - title:
   coordinates: []
+  links: []
 - title:
   coordinates: []
+  links: []
 - title:
   coordinates: []
+  links: []
 - title:
   coordinates: []
+  links: []
+- title:
+  coordinates: []
+  links: []
+- title:
+  coordinates: []
+  links: []
+- title:
+  coordinates: []
+  links: []
