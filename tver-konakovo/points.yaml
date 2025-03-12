@@ -16,15 +16,15 @@
 - title:
   coordinates: []
   links: []
-- title:
-  coordinates: []
-  links: []
-- title:
-  coordinates: []
-  links: []
-- title:
-  coordinates: []
-  links: []
+- title: Конаковский Бор
+  coordinates: [56.705108, 36.749283]
+  links: [https://yandex.ru/maps/-/CHFAmZ0S]
+- title: Пьяный мост
+  coordinates: [56.708429, 36.763905]
+  links: [https://yandex.ru/maps/-/CHFAmC9m]
+- title: ЖД станция Конаково ГРЭС
+  coordinates: [56.717540, 36.788339]
+  links: [https://yandex.ru/maps/-/CHFAmKzS]
 - title:
   coordinates: []
   links: []
