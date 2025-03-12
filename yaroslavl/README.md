@@ -32,5 +32,5 @@
 	architectMap({tracks: [
         {path: 'yaroslavl-bus.gpx', color: 'blue'},
         {path: 'yaroslavl-hike.gpx'}
-    ], tracks: 'points.yaml'});
+    ], points: 'points.yaml'});
 </script>
