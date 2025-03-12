@@ -203,7 +203,9 @@ function architectMap(config) {
         ]);
 
         console.log('🟢 pointsRaw: ', pointsRaw);
-        const points = pointsRaw.filter(item => item.coordinates.length > 0);
+        const points = (pointsRaw && pointsRaw.length > 0)
+            ? pointsRaw.filter(item => item.coordinates.length > 0)
+            : [];
         console.log('🟢 points: ', points);
 
         const tracks = gpxTracks.map((track, index) => ({
