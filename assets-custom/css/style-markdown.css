@@ -69,3 +69,12 @@
 .markdown-body{
     margin-bottom: 8rem!important;
 }
+
+
+.cover-text
+
+@media (max-width: 768px) {
+    .cover-text{
+        padding: 2rem 2rem;
+    }
+}
