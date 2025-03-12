@@ -1,16 +1,36 @@
+- title: ЖД станция Углич
+  coordinates: [57.507265, 38.325453]
+  links: [https://yandex.ru/maps/-/CHFAeLYw]
+- title: Угличский кремль
+  coordinates: [57.528446, 38.317632]
+  links: [https://yandex.ru/maps/-/CHFAePos]
 - title:
   coordinates: []
+  links: []
+- title: Музей мыши
+  coordinates: [57.783787, 38.450742]
+  links: [https://yandex.ru/maps/-/CHFAeX6o]
 - title:
   coordinates: []
+  links: []
+- title: ЖД станция Волга
+  coordinates: [57.951291, 38.407034]
+  links: [https://yandex.ru/maps/-/CHFAe-2E]
+- title: ЖД станция Рыбинск
+  coordinates: [58.041722, 38.833809]
+  links: [https://yandex.ru/maps/-/CHFAiAOk]
+- title: Спасо-Преображенский собор
+  coordinates: [58.048281, 38.858883]
+  links: [https://yandex.ru/maps/-/CHFAiI1h]
+- title: Пожарная каланча
+  coordinates: [58.046466, 38.852742]
+  links: [https://yandex.ru/maps/-/CHFAiQmy]
 - title:
   coordinates: []
+  links: []
 - title:
   coordinates: []
+  links: []
 - title:
   coordinates: []
-- title:
-  coordinates: []
-- title:
-  coordinates: []
-- title:
-  coordinates: []
+  links: []
