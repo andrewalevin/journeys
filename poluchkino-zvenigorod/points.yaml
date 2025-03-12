@@ -1,16 +1,71 @@
+- title: Успенский собор
+  coordinates: [55.733105, 36.840294]
+- title: Смотровая площадка на долину реки у монастыря
+  coordinates: [55.729114, 36.814617]
+  links: [https://yandex.ru/maps/-/CHB~RPjB]
+- title: Красная башня
+  coordinates: [55.728532, 36.816748]
+  links: [https://yandex.ru/maps/-/CHB~VEpN]
+- title: Рождественский собор
+  coordinates: [55.728017, 36.816232]
+  links: [https://yandex.ru/maps/-/CHB~VMop]
+- title: Звонница
+  coordinates: [55.728564, 36.815880]
+  links: [https://yandex.ru/maps/-/CHB~VUKh]
+- title: Трапезная
+  coordinates: [55.729413, 36.815018]
+  links: [https://yandex.ru/maps/-/CHB~VYJS]
+- title: Саввинский мужской скит
+  coordinates: [55.736574, 36.813358]
+  links: [https://yandex.ru/maps/-/CHB~VB~w]
 - title:
   coordinates: []
+  links: []
+- title: Ключ, ручей на Городке
+  coordinates: [55.733709, 36.839389]
+  links: [https://yandex.ru/maps/-/CHB~VVkI]
+- title: Ключ, ручей на Городке
+  coordinates: [55.732055, 36.839404]
+  links: [https://yandex.ru/maps/-/CHB~V677]
+- title: Вал Звенигородского Кремля
+  coordinates: [55.734451, 36.842593]
+  links: [https://yandex.ru/maps/-/CHB~VCP~]
+- title: Пень Чеховской липы
+  coordinates: [55.735338, 36.845289]
+  links: [https://yandex.ru/maps/-/CHB~VOi7]
+- title: Дом А.П. Чехова
+  coordinates: [55.735173, 36.846941]
+  links: [https://yandex.ru/maps/-/CHB~VS6f]
+- title: Малиновый овраг
+  coordinates: [55.733398, 36.848732]
+  links: [https://yandex.ru/maps/-/CHB~VW0n]
 - title:
   coordinates: []
+  links: []
+- title: Кофейня ДОМ
+  coordinates: [55.730213, 36.852555]
+  links: [https://yandex.ru/maps/-/CHB~V0lx]
+- title: Хлебник кофейня
+  coordinates: [55.730106, 36.856385]
+  links: [https://yandex.ru/maps/-/CHB~VD16]
+- title: Купчий двор, фудкорд и сувениры
+  coordinates: [55.729467, 36.856401]
+  links: [https://yandex.ru/maps/-/CHB~VXOX]
+- title: Звенигородский Манеж
+  coordinates: [55.729897, 36.859526]
+  links: [https://yandex.ru/maps/-/CHB~V-32]
+- title: Пдлощадь
+  coordinates: [55.729098, 36.860037]
+  links: [https://yandex.ru/maps/-/CHB~ZM32]
 - title:
   coordinates: []
+  links: []
+- title: Станция Звенигород
+  coordinates: [55.700587, 36.881142]
+  links: [https://yandex.ru/maps/-/CHB~Z66L]
+- title: Усадьба Введенское
+  coordinates: [55.707168, 36.872188]
+  links: [https://yandex.ru/maps/-/CHB~ZCzv]
 - title:
   coordinates: []
-- title:
-  coordinates: []
-- title:
-  coordinates: []
-- title:
-  coordinates: []
-- title:
-  coordinates: []
+  links: []
