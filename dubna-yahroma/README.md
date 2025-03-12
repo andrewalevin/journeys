@@ -36,7 +36,7 @@
 <script src="https://cdn.jsdelivr.net/npm/js-yaml@4.1.0/dist/js-yaml.min.js"></script>
 <script src="../assets-custom/js/cozy-journey.js"></script>
 <script>
-    architectMap({gpxTracks: [{path: 'dubna-yahroma.gpx'}], yamlPoints: 'markers.yaml'});
+    architectMap({gpxTracks: [{path: 'dubna-yahroma.gpx'}], yamlPoints: 'points.yaml'});
 </script>
 
 
