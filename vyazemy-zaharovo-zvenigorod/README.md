@@ -32,10 +32,11 @@
 <script src="../assets-custom/js/cozy-journey.js"></script>
 <script>architectMap({
     tracks: [
-        {path: 'zvenigorod-gorod-hike.gpx'}, 
-        {path: 'zaharovo-hike.gpx'},
         {path: 'zaharovo-railway.gpx', color: 'grey'},
         {path: 'zvenigorod-bus.gpx', color: 'blue'},
+        {path: 'zvenigorod-gorod-hike.gpx'}, 
+        {path: 'zaharovo-hike.gpx'},
+        {path: 'golotsion-hike.gpx'}
     ],
     points: 'points.yaml'});
 </script>
