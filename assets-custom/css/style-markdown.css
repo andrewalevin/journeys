@@ -71,8 +71,6 @@
 }
 
 
-.cover-text
-
 @media only screen and (max-width: 768px) {
     .cover-text{
         padding: 2rem 2rem;
