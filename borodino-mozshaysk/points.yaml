@@ -2,3 +2,51 @@
   coordinates: [55.509753, 36.010863]
 - title: Бородинский музей
   coordinates: [55.517928, 35.822788]
+- title: ЖД Станция Можайск
+  coordinates: [55.494397, 36.032576]
+  links: [https://yandex.ru/maps/-/CHFQ7A~D]
+- title: ЖД Станция Бородино
+  coordinates: [55.495618, 35.861009]
+  links: [https://yandex.ru/maps/-/CHFQ74l-]
+- title: Шевардинский редут
+  coordinates: [55.499163, 35.797037]
+  links: [https://yandex.ru/maps/-/CHFQ7JIn]
+- title: Спасо-Бородинский монастырь
+  coordinates: [55.504496, 35.828813]
+  links: [https://yandex.ru/maps/-/CHFQ7RkQ]
+- title: Монумент Героям Бородинского сражения
+  coordinates: [55.519222, 35.827222]
+  links: [https://yandex.ru/maps/-/CHFQ7GMc]
+- title: Бородинский музей
+  coordinates: [55.517929, 35.822772]
+  links: [https://yandex.ru/maps/-/CHFQ7O3-]
+- title: Смоленская церковь в с Бородино
+  coordinates: [55.527314, 35.817881]
+  links: [https://yandex.ru/maps/-/CHFQ78Y1]
+- title:
+  coordinates: []
+  links: []
+- title:
+  coordinates: []
+  links: []
+- title:
+  coordinates: []
+  links: []
+- title:
+  coordinates: []
+  links: []
+- title:
+  coordinates: []
+  links: []
+- title:
+  coordinates: []
+  links: []
+- title:
+  coordinates: []
+  links: []
+- title:
+  coordinates: []
+  links: []
+- title:
+  coordinates: []
+  links: []
