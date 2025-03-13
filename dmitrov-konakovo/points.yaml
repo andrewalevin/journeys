@@ -10,6 +10,33 @@
 - title:
   coordinates: []
   links: []
+- title: Постамент снесенного памятника И.В.Сталину
+  coordinates: [56.728355, 37.128975]
+  links: [https://yandex.ru/maps/-/CHFYVMOT]
+- title: Институт ядерных исследований
+  coordinates: [56.746437, 37.189376]
+  links: [https://yandex.ru/maps/-/CHFYRSnG]
+- title: Набережная Дубны
+  coordinates: [56.747295, 37.179284]
+  links: [https://yandex.ru/maps/-/CHFYR8Jk]
+- title: Переправа через канал
+  coordinates: [56.713382, 37.133069]
+  links: [https://yandex.ru/maps/-/CHFYRL6y]
+- title: Дмитровский кремль
+  coordinates: [56.344929, 37.520332]
+  links: [https://yandex.ru/maps/-/CHFYRTNh]
+- title: ЖД Станция Дмитров
+  coordinates: [56.337598, 37.510227]
+  links: [https://yandex.ru/maps/-/CHFYRX64]
+- title: ЖД Станция Яхрома
+  coordinates: [56.286524, 37.501670]
+  links: [https://yandex.ru/maps/-/CHFYR2PB]
+- title: Перемиловская высота
+  coordinates: [56.298032, 37.500133]
+  links: [https://yandex.ru/maps/-/CHFYVE52]
+- title: Большой Волжский маяк
+  coordinates: [56.716503, 37.131865]
+  links: [https://yandex.ru/maps/-/CHFYVU-7]
 - title:
   coordinates: []
   links: []
