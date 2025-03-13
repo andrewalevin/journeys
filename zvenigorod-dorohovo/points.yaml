@@ -108,6 +108,18 @@
 - title:
   coordinates: []
   links: []
+- title: Усадьба Любвино
+  coordinates: [55.603863, 36.508041]
+  links: [https://yandex.ru/maps/-/CHF4a4Iy]
+- title: Начало веломаршрута
+  coordinates: [55.606797, 36.509910]
+  links: [https://yandex.ru/maps/-/CHF4a4zi]
+- title: Полушкинские каменоломни
+  coordinates: [55.607459, 36.530799]
+  links: [https://yandex.ru/maps/-/CHF4a49V]
+- title: Родник
+  coordinates: [55.604348, 36.540148]
+  links: [https://yandex.ru/maps/-/CHF4a43m]
 - title:
   coordinates: []
   links: []
