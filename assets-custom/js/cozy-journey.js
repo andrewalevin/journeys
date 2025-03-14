@@ -297,7 +297,7 @@ function architectMap(configInit) {
         function updateInfo() {
             const center = map.getCenter();
             const zoom = map.getZoom().toFixed(2);
-            infoDiv.textContent = `Center: ${center.lng.toFixed(5)}, ${center.lat.toFixed(5)} _ Zoom: ${zoom}`;
+            infoDiv.textContent = `${center.lng.toFixed(5)}, ${center.lat.toFixed(5)}\n${zoom}`;
 
             greenCenterMarker.setLngLat(center);
 
