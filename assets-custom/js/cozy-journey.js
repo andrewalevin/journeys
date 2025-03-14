@@ -270,7 +270,11 @@ function architectMap(configInit) {
         const pointCoordinatesFull = points.flatMap(point => [point.coordinates]);
 
         const bounds = getBounds([...trackCoordinatesFull, ...pointCoordinatesFull]);
-        map.fitBounds(bounds, {padding: config.fitPadding, duration: config.fitDuration});
+        map.fitBounds(bounds, {
+            padding: config.fitPadding,
+            duration: config.fitDuration,
+            maxZoom: config.fitMaxzoom
+        });
 
 
 
