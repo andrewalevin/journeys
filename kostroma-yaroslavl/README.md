@@ -38,7 +38,7 @@
         {path: 'yaroslavl-hike.gpx'}],
     points: 'points.yaml',
     zoom: 6.7,
-    center: [38.48726, 55.93545],
+    center: [37.93633, 55.88710],
     fitDuration: 9000
 });
 </script>
