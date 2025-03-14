@@ -183,7 +183,7 @@ function architectMap(configInit) {
         let config = {
             tracks: configInit?.tracks ?? [],
             points: configInit?.points ?? '',
-            zoom: configInit?.zoom ?? 7,9,
+            zoom: configInit?.zoom ?? 7.9,
             center: configInit?.center ?? [37.29615, 55.67723],
             fitDuration: configInit?.fitDuration ?? 8000,
             fitPadding: configInit?.fitPadding ?? 50,
