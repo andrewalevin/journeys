@@ -15,9 +15,6 @@
 - title: Трапезная
   coordinates: [55.729413, 36.815018]
   links: [https://yandex.ru/maps/-/CHB~VYJS]
-- title: Саввинский мужской скит
-  coordinates: [55.736574, 36.813358]
-  links: [https://yandex.ru/maps/-/CHB~VB~w]
 - title:
   coordinates: []
   links: []
@@ -54,7 +51,7 @@
 - title: Звенигородский Манеж
   coordinates: [55.729897, 36.859526]
   links: [https://yandex.ru/maps/-/CHB~V-32]
-- title: Пдлощадь
+- title: Площадь в Звенигороде
   coordinates: [55.729098, 36.860037]
   links: [https://yandex.ru/maps/-/CHB~ZM32]
 - title:
