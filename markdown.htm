@@ -422,8 +422,18 @@
             tracks: [
                 {path: 'zvenigorod/zvenigorod-bus.gpx', color: 'blue'},
                 {path: 'zvenigorod/zvenigorod-gorod-hike.gpx'},
+                {path: 'belarusian-railway.gpx', color: 'grey'},
+                {path: 'zvenigorod-railway.gpx', color: 'grey'},
             ],
             points: 'points.yaml'
+        });
+
+        map.on('load', () => {
+            // Меняем цвет и ширину линий железных дорог
+            map.setPaintProperty('rail', 'line-color', '#FF0000'); // Ярко-красный цвет
+            map.setPaintProperty('rail', 'line-width', 10); // Толщина линии
+            map.setPaintProperty('rail', 'line-opacity', 1); // Полностью видимый
+
         });
     </script>
 

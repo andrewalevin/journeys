@@ -266,5 +266,6 @@ function architectMap(configInit) {
 
         const bounds = getBounds([...trackCoordinatesFull, ...pointCoordinatesFull]);
         map.fitBounds(bounds, {padding: 50, duration: 5000});
+
     })();
 }
