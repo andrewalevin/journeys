@@ -171,7 +171,7 @@ function getBounds(coordinates) {
 
 
 
-const DEBUG = true;
+const DEBUG = false;
 
 
 // === CONFIGURATION ===
