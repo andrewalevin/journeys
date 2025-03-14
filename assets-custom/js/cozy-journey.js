@@ -185,8 +185,8 @@ function architectMap(configInit) {
             points: configInit?.points ?? '',
             zoom: configInit?.zoom ?? 8.0,
             center: configInit?.center ?? [37.29615, 55.67723],
+            fitDuration: configInit?.fitDuration ?? 8000,
             fitPadding: configInit?.fitPadding ?? 50,
-            fitDuration: configInit?.fitDuration ?? 5000,
             fitMaxzoom: configInit?.fitMaxzoom ?? 22,
         };
 
