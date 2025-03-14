@@ -31,3 +31,17 @@
 .h4-default{
     word-spacing: 2px;
 }
+
+.markdown-body img {
+    display: block;
+    height: auto;
+    max-width: 100%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+@media (min-width: 768px) {
+    .markdown-body img {
+        max-width: 70%;
+    }
+}
