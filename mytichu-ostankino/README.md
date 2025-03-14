@@ -37,8 +37,8 @@
 <script>architectMap({
     tracks: [{path: 'mytichu-ostankino.gpx'}], 
     points: 'points.yaml',
-    zoom: 8.6,
-    center: [37.30004, 55.74771],
+    zoom: 9.2,
+    center: [37.67449, 55.77906],
     fitDuration: 9000
 });
 </script>

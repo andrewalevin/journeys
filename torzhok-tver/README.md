@@ -38,8 +38,8 @@
 <script>architectMap({
     tracks: [{path: 'torzhok-tver.gpx'}], 
     points: 'points.yaml',
-    zoom: 8.6,
-    center: [37.30004, 55.74771],
+    zoom: 6.0,
+    center: [37.37864, 56.10164],
     fitDuration: 9000
 });
 </script>
