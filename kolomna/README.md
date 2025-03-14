@@ -32,8 +32,8 @@
     tracks: [
         {path: 'kolomna-hike.gpx'}], 
     points: 'points.yaml',
-    zoom: 8.5,
-    center: [37.82600, 55.73952],
+    zoom: 6.0,
+    center: [38.15409, 55.59607],
     fitDuration: 9000
 });
 </script>

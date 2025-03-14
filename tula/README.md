@@ -38,8 +38,8 @@
         {path: 'tula-hike.gpx'},
         {path: 'yasnsya-hike.gpx'}], 
     points: 'points.yaml',
-    zoom: 6.6,
-    center: [37.79715, 55.15076],
+    zoom: 6.35,
+    center: [37.42031, 55.12027],
     fitDuration: 9000
 });
 </script>
