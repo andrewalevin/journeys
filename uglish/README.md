@@ -36,8 +36,8 @@
 <script>architectMap({
     tracks: [{path: 'uglish.gpx'}], 
     points: 'points.yaml',
-    zoom: 8.6,
-    center: [37.30004, 55.74771],
+    zoom: 5.6,
+    center: [38.64863, 56.37531],
     fitDuration: 9000
 });
 </script>

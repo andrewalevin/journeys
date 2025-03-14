@@ -34,8 +34,8 @@
 <script>architectMap({
     tracks: [{path: 'dubna-yahroma.gpx'}], 
     points: 'points.yaml',
-    zoom: 8.6,
-    center: [37.30004, 55.74771],
+    zoom: 7.2,
+    center: [37.55069, 56.18075],
     fitDuration: 9000
 });
 </script>

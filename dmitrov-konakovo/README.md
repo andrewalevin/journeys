@@ -35,8 +35,8 @@
 <script>architectMap({
     tracks: [{path: 'dmitrov-konakovo.gpx'}], 
     points: 'points.yaml',
-    zoom: 8.6,
-    center: [37.30004, 55.74771],
+    zoom: 7.3,
+    center: [37.55421, 56.20568],
     fitDuration: 9000
 });
 </script>

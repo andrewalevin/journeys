@@ -37,8 +37,8 @@
 <script>architectMap({
     tracks: [{path: 'tutaev.gpx'}], 
     points: 'points.yaml',
-    zoom: 8.6,
-    center: [37.30004, 55.74771],
+    zoom: 5.8,
+    center: [38.08029, 56.58288],
     fitDuration: 9000
 });
 </script>
