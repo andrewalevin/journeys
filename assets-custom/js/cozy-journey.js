@@ -182,7 +182,12 @@ function architectMap(configInit) {
     (async () => {
         let config = {
             tracks: configInit?.tracks ?? [],
-            points: configInit?.points ?? ''
+            points: configInit?.points ?? '',
+            zoom: configInit?.zoom ?? 5,
+            center: configInit?.center ?? [37.618423, 55.751244],
+            fitPadding: configInit?.fitPadding ?? 50,
+            fitDuration: configInit?.fitDuration ?? 5000,
+            fitMaxzoom: configInit?.fitMaxzoom ?? 22,
         };
 
         console.log('🟣 config: ', config);
@@ -191,8 +196,8 @@ function architectMap(configInit) {
         const map = new mapboxgl.Map({
             container: 'map',
             style: 'mapbox://styles/andrewlevin/clthwxvvg002h01qo40y1e99g',
-            center: [37.618423, 55.751244], // Moscow
-            zoom: 5
+            center: config.center, // Moscow
+            zoom: config.zoom
         });
 
         const mapLoadPromise = new Promise((resolve) => {
@@ -265,7 +270,33 @@ function architectMap(configInit) {
         const pointCoordinatesFull = points.flatMap(point => [point.coordinates]);
 
         const bounds = getBounds([...trackCoordinatesFull, ...pointCoordinatesFull]);
-        map.fitBounds(bounds, {padding: 50, duration: 5000});
+        map.fitBounds(bounds, {padding: config.fitPadding, duration: config.fitDuration});
+
+
+
+
+
+        const mapContainer = document.getElementById('map');
+
+        // Create a new div element
+        const infoDiv = document.createElement('div');
+        infoDiv.id = 'map-info';
+        infoDiv.textContent = 'Center: -, - | Zoom: -';
+
+        // Insert the new element after #map
+        mapContainer.insertAdjacentElement('afterend', infoDiv);
+
+        // Update the info content on map events
+        function updateInfo() {
+            const center = map.getCenter();
+            const zoom = map.getZoom().toFixed(2);
+            infoDiv.textContent = `Center: ${center.lng.toFixed(5)}, ${center.lat.toFixed(5)} | Zoom: ${zoom}`;
+        }
+
+        map.on('move', updateInfo);
+        map.on('zoom', updateInfo);
+        map.on('load', updateInfo);
+
 
     })();
 }

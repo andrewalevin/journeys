@@ -64,6 +64,21 @@
 #map {
     height: 70vh;
     margin-bottom: 2rem;
+    --map-info: 'Center: -, - | Zoom: -';
+}
+
+#map-info {
+    content: var(--map-info);
+    position: absolute;
+    bottom: 10px;
+    left: 10px;
+    background: rgba(0, 0, 0, 0.6);
+    color: #fff;
+    padding: 8px 12px;
+    font-family: sans-serif;
+    border-radius: 4px;
+    font-size: 14px;
+    white-space: pre;
 }
 
 .markdown-body{
