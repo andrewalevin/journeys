@@ -32,8 +32,8 @@
 <script>architectMap({
     tracks: [{path: 'posad-hike.gpx'}, {path: 'aleksandrov-hike.gpx'}], 
     points: 'points.yaml',
-    zoom: 8.6,
-    center: [37.30004, 55.74771],
+    zoom: 7.3,
+    center: [38.09385, 56.00274],
     fitDuration: 9000
 });
 </script>
