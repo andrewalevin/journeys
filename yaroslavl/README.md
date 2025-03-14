@@ -34,8 +34,8 @@
         {path: 'yaroslavl-bus.gpx', color: 'blue'},
         {path: 'yaroslavl-hike.gpx'}], 
     points: 'points.yaml',
-    zoom: 7.0,
-    center: [38.22886, 55.85362],
+    zoom: 5.7,
+    center: [38.69379, 56.05797],
     fitDuration: 9000
 });
 </script>
