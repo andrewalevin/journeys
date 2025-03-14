@@ -183,8 +183,8 @@ function architectMap(configInit) {
         let config = {
             tracks: configInit?.tracks ?? [],
             points: configInit?.points ?? '',
-            zoom: configInit?.zoom ?? 7.9,
-            center: configInit?.center ?? [37.29615, 55.67723],
+            zoom: configInit?.zoom ?? 7.0,
+            center: configInit?.center ?? [37.51722, 55.56106],
             fitDuration: configInit?.fitDuration ?? 8000,
             fitPadding: configInit?.fitPadding ?? 50,
             fitMaxzoom: configInit?.fitMaxzoom ?? 22,
@@ -259,6 +259,7 @@ function architectMap(configInit) {
                     <h3>${title}</h3>
                     ${description}
                     ${link}
+                    <a href="#val">LINK</a>>
                   `);
             new mapboxgl.Marker({color: 'red'})
                 .setLngLat(point.coordinates.reverse())
@@ -290,11 +291,16 @@ function architectMap(configInit) {
         // Insert the new element after #map
         mapContainer.insertAdjacentElement('afterend', infoDiv);
 
+        const greenCenterMarker = new mapboxgl.Marker({color: 'green'}).setLngLat(config.center).addTo(map);
+
         // Update the info content on map events
         function updateInfo() {
             const center = map.getCenter();
             const zoom = map.getZoom().toFixed(2);
             infoDiv.textContent = `Center: ${center.lng.toFixed(5)}, ${center.lat.toFixed(5)} _ Zoom: ${zoom}`;
+
+            greenCenterMarker.setLngLat(center);
+
         }
 
         map.on('move', updateInfo);
