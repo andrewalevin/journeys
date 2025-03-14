@@ -171,8 +171,7 @@ function getBounds(coordinates) {
 
 
 
-
-
+const DEBUG = true;
 
 
 // === CONFIGURATION ===
@@ -281,32 +280,32 @@ function architectMap(configInit) {
 
 
 
-        const mapContainer = document.getElementById('map');
 
-        // Create a new div element
-        const infoDiv = document.createElement('div');
-        infoDiv.id = 'map-info';
-        infoDiv.textContent = 'Center: -, - | Zoom: -';
 
-        // Insert the new element after #map
-        mapContainer.insertAdjacentElement('afterend', infoDiv);
+        if (DEBUG){
+            const mapContainer = document.getElementById('map');
 
-        const greenCenterMarker = new mapboxgl.Marker({color: 'green'}).setLngLat(config.center).addTo(map);
+            const infoDiv = document.createElement('div');
+            infoDiv.id = 'map-info';
+            infoDiv.textContent = 'Center: -, - | Zoom: -';
 
-        // Update the info content on map events
-        function updateInfo() {
-            const center = map.getCenter();
-            const zoom = map.getZoom().toFixed(2);
-            infoDiv.textContent = `${center.lng.toFixed(5)}, ${center.lat.toFixed(5)}\n${zoom}`;
+            mapContainer.insertAdjacentElement('afterend', infoDiv);
 
-            greenCenterMarker.setLngLat(center);
+            const greenCenterMarker = new mapboxgl.Marker({color: 'green'}).setLngLat(config.center).addTo(map);
 
+            function updateInfo() {
+                const center = map.getCenter();
+                const zoom = map.getZoom().toFixed(2);
+                infoDiv.textContent = `${center.lng.toFixed(5)}, ${center.lat.toFixed(5)}\n${zoom}`;
+
+                greenCenterMarker.setLngLat(center);
+
+            }
+
+            map.on('move', updateInfo);
+            map.on('zoom', updateInfo);
+            map.on('load', updateInfo);
         }
-
-        map.on('move', updateInfo);
-        map.on('zoom', updateInfo);
-        map.on('load', updateInfo);
-
 
     })();
 }
