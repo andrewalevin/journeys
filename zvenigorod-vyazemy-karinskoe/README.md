@@ -42,8 +42,8 @@
         {path: 'vyazemy-zaharovo-zvenigorod-karinskoe.gpx'}
     ],
     points: 'points.yaml',
-    zoom: 8.6,
-    center: [37.30004, 55.74771],
+    zoom: 7.2,
+    center: [37.49433, 55.59333],
     fitDuration: 9000
 });
 </script>

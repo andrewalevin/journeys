@@ -118,8 +118,8 @@ https://goo.gl/maps/h3yBR6EFSVt
 <script>architectMap({
     tracks: [{path: 'zvenigorod-vasielvskoe.gpx'}, {path: 'sima.gpx', color: 'blue'}], 
     points: 'points.yaml',
-    zoom: 8.6,
-    center: [37.30004, 55.74771],
+    zoom: 7.0,
+    center: [37.49433, 55.59333],
     fitDuration: 9000
 });
 </script>

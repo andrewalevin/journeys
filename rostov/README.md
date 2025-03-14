@@ -34,7 +34,7 @@
     tracks: [], 
     points: 'points.yaml',
     zoom: 6.0,
-    center: [38.11258, 55.77923],
+    center: [37.68589, 55.55567],
     fitDuration: 9000
 });
 </script>
