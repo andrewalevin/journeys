@@ -38,9 +38,9 @@
 <script>architectMap({
     tracks: [{path: 'serpuhov-stupino.gpx'}],
     points: 'points.yaml',
-    zoom: 7.2,
-    center: [37.80774, 55.43638],
-    fitDuration: 9000
+    zoom: 7.0,
+    center: [37.94424, 55.35083],
+    fitDuration: 7000
  });
 </script>
 
