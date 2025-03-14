@@ -56,8 +56,8 @@ https://www.google.com/maps?cid=4844350132349272538
 <script>architectMap({
     tracks: [{path: 'posad-hike.gpx'}, {path: 'aleksandrov-hike.gpx'}], 
     points: 'points.yaml',
-    zoom: 7.3,
-    center: [38.09385, 56.00274],
+    zoom: 6.5,
+    center: [37.68589, 55.55567],
     fitDuration: 9000
 });
 </script>
