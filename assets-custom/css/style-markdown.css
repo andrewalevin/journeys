@@ -85,9 +85,20 @@
     margin-bottom: 8rem!important;
 }
 
+.markdown-body img {
+    display: block;
+    height: auto;
+    max-width: 70%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
 
 @media only screen and (max-width: 768px) {
     .cover-text{
         padding: 2rem 1.5rem;
+    }
+    .markdown-body img {
+        max-width: 100%;
     }
 }
