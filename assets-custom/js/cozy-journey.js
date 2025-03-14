@@ -194,7 +194,7 @@ function architectMap(configInit) {
 
         const map = new mapboxgl.Map({
             container: 'map',
-            style: 'mapbox://styles/andrewlevin/clthwxvvg002h01qo40y1e99g',
+            style: 'mapbox://styles/andrewlevin/cm89cyevq00by01s8cqpx5zhh',
             center: config.center, // Moscow
             zoom: config.zoom
         });
