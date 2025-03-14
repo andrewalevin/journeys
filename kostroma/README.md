@@ -87,8 +87,8 @@
         {path: 'kostroma-hike.gpx'},
         {path: 'kostroma-sloboda-hike.gpx'}],
     points: 'points.yaml',
-    zoom: 5.4,
-    center: [39.09734, 56.41638],
+    zoom: 5.2,
+    center: [37.53430, 55.48873],
     fitDuration: 12000,
     fitMaxzoom: 12.1
 });

@@ -125,8 +125,8 @@ https://en.wikipedia.org/wiki/Kostroma
         {path: 'kostroma-sloboda-hike.gpx'},
         {path: 'yaroslavl-hike.gpx'}],
     points: 'points.yaml',
-    zoom: 5.25,
-    center: [39.34453, 56.25837],
+    zoom: 5.2,
+    center: [37.53430, 55.48873],
     fitDuration: 9000
 });
 </script>
