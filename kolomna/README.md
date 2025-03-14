@@ -35,6 +35,6 @@
     zoom: 6.0,
     center: [38.15409, 55.59607],
     fitDuration: 9000,
-    fitMaxzoom: 11.4
+    fitMaxzoom: 11.5
 });
 </script>
