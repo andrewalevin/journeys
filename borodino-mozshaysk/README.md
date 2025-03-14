@@ -22,7 +22,9 @@
 
 [📍GPX трек borodino-mozshaysk.gpx](borodino-mozshaysk.gpx)
 
+![photo_2025-03-14 18.54.25.jpeg](imgs/photo_2025-03-14%2018.54.25.jpeg)
 
+![photo_2025-03-14 18.54.32.jpeg](imgs/photo_2025-03-14%2018.54.32.jpeg)
 
 
 ![photo_2025-03-14 18.54.11.jpeg](imgs/photo_2025-03-14%2018.54.11.jpeg)
@@ -33,16 +35,19 @@
 ![photo_2025-03-14 18.54.22.jpeg](imgs/photo_2025-03-14%2018.54.22.jpeg)
 ![photo_2025-03-14 18.54.23.jpeg](imgs/photo_2025-03-14%2018.54.23.jpeg)
 ![photo_2025-03-14 18.54.24.jpeg](imgs/photo_2025-03-14%2018.54.24.jpeg)
-![photo_2025-03-14 18.54.25.jpeg](imgs/photo_2025-03-14%2018.54.25.jpeg)
+
 ![photo_2025-03-14 18.54.26.jpeg](imgs/photo_2025-03-14%2018.54.26.jpeg)
+1
+
 ![photo_2025-03-14 18.54.27.jpeg](imgs/photo_2025-03-14%2018.54.27.jpeg)
 ![photo_2025-03-14 18.54.28.jpeg](imgs/photo_2025-03-14%2018.54.28.jpeg)
 ![photo_2025-03-14 18.54.29.jpeg](imgs/photo_2025-03-14%2018.54.29.jpeg)
 ![photo_2025-03-14 18.54.30.jpeg](imgs/photo_2025-03-14%2018.54.30.jpeg)
 ![photo_2025-03-14 18.54.31.jpeg](imgs/photo_2025-03-14%2018.54.31.jpeg)
-![photo_2025-03-14 18.54.32.jpeg](imgs/photo_2025-03-14%2018.54.32.jpeg)
+
 ![photo_2025-03-14 18.54.33.jpeg](imgs/photo_2025-03-14%2018.54.33.jpeg)
 ![photo_2025-03-14 18.54.34.jpeg](imgs/photo_2025-03-14%2018.54.34.jpeg)
+2
 ![photo_2025-03-14 18.54.35.jpeg](imgs/photo_2025-03-14%2018.54.35.jpeg)
 
 

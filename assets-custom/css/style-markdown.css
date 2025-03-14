@@ -101,3 +101,7 @@
         max-width: 100%;
     }
 }
+
+.markdown-body img.cover-icon {
+    margin: initial!important;
+}
