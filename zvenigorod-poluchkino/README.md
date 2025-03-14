@@ -38,6 +38,9 @@
 <script src="../assets-custom/js/cozy-journey.js"></script>
 <script>architectMap({
     tracks: [{path: 'poluchkino-zvenigorod.gpx'}, {path: 'sima.gpx', color: 'blue'}],
-    points: 'points.yaml'
-    });
+    points: 'points.yaml',
+    zoom: 8.6,
+    center: [37.30004, 55.74771],
+    fitDuration: 9000
+ });
 </script>
