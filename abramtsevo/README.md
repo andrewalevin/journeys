@@ -90,8 +90,8 @@
         {path: 'abramtsevo-park.gpx'},
         {path: 'posad.gpx'}],
     points: 'points.yaml',
-    zoom: 7.6,
-    center: [37.88800, 55.99172],
+    zoom: 7.7,
+    center: [37.45542, 55.61290],
     fitDuration: 9000,
     fitMaxzoom: 10.5
 });
