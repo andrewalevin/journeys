@@ -141,9 +141,9 @@
 - title: Старый жд мост
   coordinates: [55.614111, 36.418832]
   links: []
-- title:
-  coordinates: []
-  links: []
+- title: ЖД станция Театральная
+  coordinates: [55.584956, 36.448380]
+  links: [https://yandex.ru/maps/-/CHF4eKNh]
 - title:
   coordinates: []
   links: []
