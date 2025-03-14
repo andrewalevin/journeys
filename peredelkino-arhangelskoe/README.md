@@ -36,8 +36,8 @@
 <script>architectMap({
     tracks: [{path: 'peredelkino-arhangelskoe.gpx'}],  
     points: 'points.yaml',
-    zoom: 8.6,
-    center: [37.30004, 55.74771],
+    zoom: 9.3,
+    center: [37.44454, 55.73280 ],
     fitDuration: 9000
 });
 </script>
