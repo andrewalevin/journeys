@@ -38,8 +38,8 @@
 <script>architectMap({
     tracks: [{path: 'peredelkino-meshersky-park.gpx'}],
     points: 'points.yaml',
-    zoom: 8.6,
-    center: [37.30004, 55.74771],
+    zoom: 9.3,
+    center: [37.52704, 55.72584],
     fitDuration: 9000
 });
 </script>
