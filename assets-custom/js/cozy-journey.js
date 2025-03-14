@@ -290,7 +290,7 @@ function architectMap(configInit) {
         function updateInfo() {
             const center = map.getCenter();
             const zoom = map.getZoom().toFixed(2);
-            infoDiv.textContent = `Center: ${center.lng.toFixed(5)}, ${center.lat.toFixed(5)} | Zoom: ${zoom}`;
+            infoDiv.textContent = `Center: ${center.lng.toFixed(5)}, ${center.lat.toFixed(5)} _ Zoom: ${zoom}`;
         }
 
         map.on('move', updateInfo);

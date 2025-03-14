@@ -64,7 +64,7 @@
 #map {
     height: 70vh;
     margin-bottom: 2rem;
-    --map-info: 'Center: -, - | Zoom: -';
+    --map-info: 'Center: -, - _ Zoom: -';
 }
 
 #map-info {

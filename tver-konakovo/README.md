@@ -37,8 +37,8 @@
 <script>architectMap({
     tracks: [{path: 'tver-toporok.gpx'}], 
     points: 'points.yaml',
-    zoom: 6.65,
-    center: [37.24020, 56.20597],
+    zoom: 6.4,
+    center: [37.19499, 56.17144],
     fitDuration: 9000
 });
 </script>
