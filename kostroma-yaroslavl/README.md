@@ -37,8 +37,8 @@
         {path: 'kostroma-sloboda-hike.gpx'},
         {path: 'yaroslavl-hike.gpx'}],
     points: 'points.yaml',
-    zoom: 8.6,
-    center: [37.30004, 55.74771],
+    zoom: 6.7,
+    center: [38.48726, 55.93545],
     fitDuration: 9000
 });
 </script>
