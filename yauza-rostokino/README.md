@@ -36,8 +36,8 @@
 <script>architectMap({
     tracks: [{path: 'yauza-rostokino.gpx'}], 
     points: 'points.yaml',
-    zoom: 8.6,
-    center: [37.30004, 55.74771],
+    zoom: 9.5,
+    center: [37.66384, 55.80253],
     fitDuration: 9000
 });
 </script>
