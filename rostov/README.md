@@ -33,8 +33,8 @@
 <script>architectMap({
     tracks: [], 
     points: 'points.yaml',
-    zoom: 8.6,
-    center: [37.30004, 55.74771],
+    zoom: 6.0,
+    center: [38.11258, 55.77923],
     fitDuration: 9000
 });
 </script>
