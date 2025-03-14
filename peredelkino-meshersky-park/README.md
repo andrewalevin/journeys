@@ -23,10 +23,41 @@
 [📍GPX трек peredelkino-meshersky-park.gpx](peredelkino-meshersky-park.gpx)
 
 
+Переделкино — знаменитый писательский посёлок, старинная дачная деревня, где жили и творили выдающиеся советские писатели и художники.
+
+Дом творчества писателей в Переделкино до сих пор хранит особую атмосферу и оригинальный советский дизайн интерьеров.
+
+А рядом расположен Парк Малевича — названный в честь авангардного художника Казимира Малевича. Это место, где природа и искусство сплетаются в единый вдохновляющий пейзаж.
 
 
-
-
+![photo_2025-03-14 19.11.38.jpeg](../peredelkino-arhangelskoe/imgs/photo_2025-03-14%2019.11.38.jpeg)
+![photo_2025-03-14 19.11.39.jpeg](../peredelkino-arhangelskoe/imgs/photo_2025-03-14%2019.11.39.jpeg)
+![photo_2025-03-14 19.11.40.jpeg](../peredelkino-arhangelskoe/imgs/photo_2025-03-14%2019.11.40.jpeg)
+![photo_2025-03-14 19.11.41.jpeg](../peredelkino-arhangelskoe/imgs/photo_2025-03-14%2019.11.41.jpeg)
+![photo_2025-03-14 19.11.42.jpeg](../peredelkino-arhangelskoe/imgs/photo_2025-03-14%2019.11.42.jpeg)
+![photo_2025-03-14 19.11.43.jpeg](../peredelkino-arhangelskoe/imgs/photo_2025-03-14%2019.11.43.jpeg)
+![photo_2025-03-14 19.11.44.jpeg](../peredelkino-arhangelskoe/imgs/photo_2025-03-14%2019.11.44.jpeg)
+![photo_2025-03-14 19.11.44-1.jpeg](../peredelkino-arhangelskoe/imgs/photo_2025-03-14%2019.11.44-1.jpeg)
+![photo_2025-03-14 19.11.46.jpeg](../peredelkino-arhangelskoe/imgs/photo_2025-03-14%2019.11.46.jpeg)
+![photo_2025-03-14 19.11.46-1.jpeg](../peredelkino-arhangelskoe/imgs/photo_2025-03-14%2019.11.46-1.jpeg)
+![photo_2025-03-14 19.11.47.jpeg](../peredelkino-arhangelskoe/imgs/photo_2025-03-14%2019.11.47.jpeg)
+![photo_2025-03-14 19.11.48.jpeg](../peredelkino-arhangelskoe/imgs/photo_2025-03-14%2019.11.48.jpeg)
+![photo_2025-03-14 19.11.51-2.jpeg](../peredelkino-arhangelskoe/imgs/photo_2025-03-14%2019.11.51-2.jpeg)
+![photo_2025-03-14 19.11.52.jpeg](../peredelkino-arhangelskoe/imgs/photo_2025-03-14%2019.11.52.jpeg)
+![photo_2025-03-14 19.11.53.jpeg](../peredelkino-arhangelskoe/imgs/photo_2025-03-14%2019.11.53.jpeg)
+![photo_2025-03-14 19.11.54.jpeg](../peredelkino-arhangelskoe/imgs/photo_2025-03-14%2019.11.54.jpeg)
+![photo_2025-03-14 19.11.55.jpeg](../peredelkino-arhangelskoe/imgs/photo_2025-03-14%2019.11.55.jpeg)
+![photo_2025-03-14 19.11.56.jpeg](../peredelkino-arhangelskoe/imgs/photo_2025-03-14%2019.11.56.jpeg)
+![photo_2025-03-14 19.11.57.jpeg](../peredelkino-arhangelskoe/imgs/photo_2025-03-14%2019.11.57.jpeg)
+![photo_2025-03-14 19.11.58.jpeg](../peredelkino-arhangelskoe/imgs/photo_2025-03-14%2019.11.58.jpeg)
+![photo_2025-03-14 19.11.59.jpeg](../peredelkino-arhangelskoe/imgs/photo_2025-03-14%2019.11.59.jpeg)
+![photo_2025-03-14 19.12.00.jpeg](../peredelkino-arhangelskoe/imgs/photo_2025-03-14%2019.12.00.jpeg)
+![photo_2025-03-14 19.12.00-2.jpeg](../peredelkino-arhangelskoe/imgs/photo_2025-03-14%2019.12.00-2.jpeg)
+![photo_2025-03-14 19.12.02.jpeg](../peredelkino-arhangelskoe/imgs/photo_2025-03-14%2019.12.02.jpeg)
+![photo_2025-03-14 19.12.04.jpeg](../peredelkino-arhangelskoe/imgs/photo_2025-03-14%2019.12.04.jpeg)
+![photo_2025-03-14 19.12.05.jpeg](../peredelkino-arhangelskoe/imgs/photo_2025-03-14%2019.12.05.jpeg)
+![photo_2025-03-14 19.12.06.jpeg](../peredelkino-arhangelskoe/imgs/photo_2025-03-14%2019.12.06.jpeg)
+![photo_2025-03-14 19.12.07.jpeg](../peredelkino-arhangelskoe/imgs/photo_2025-03-14%2019.12.07.jpeg)
 
 
 
