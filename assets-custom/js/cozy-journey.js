@@ -258,7 +258,6 @@ function architectMap(configInit) {
                     <h3>${title}</h3>
                     ${description}
                     ${link}
-                    <a href="#val">LINK</a>>
                   `);
             new mapboxgl.Marker({color: 'red'})
                 .setLngLat(point.coordinates.reverse())
