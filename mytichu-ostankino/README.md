@@ -39,6 +39,6 @@
     points: 'points.yaml',
     zoom: 9.2,
     center: [37.67449, 55.77906],
-    fitDuration: 9000
+    fitDuration: 6000
 });
 </script>

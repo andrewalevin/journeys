@@ -119,6 +119,6 @@ https://goo.gl/maps/h3yBR6EFSVt
     points:  'points.yaml',
     zoom: 7.2,
     center: [37.49433, 55.59333],
-    fitDuration: 9000
+    fitDuration: 6000
 });
 </script>
