@@ -1,20 +1,8 @@
-- title: Успенский собор
+- title: Звенигородский Городок и Успенский собор
   coordinates: [55.733105, 36.840294]
-- title: Смотровая площадка на долину реки у монастыря
-  coordinates: [55.729114, 36.814617]
-  links: [https://yandex.ru/maps/-/CHB~RPjB]
-- title: Красная башня
-  coordinates: [55.728532, 36.816748]
-  links: [https://yandex.ru/maps/-/CHB~VEpN]
-- title: Рождественский собор
+- title: Саввино-Сторожевский Монастырь
   coordinates: [55.728017, 36.816232]
   links: [https://yandex.ru/maps/-/CHB~VMop]
-- title: Звонница
-  coordinates: [55.728564, 36.815880]
-  links: [https://yandex.ru/maps/-/CHB~VUKh]
-- title: Трапезная
-  coordinates: [55.729413, 36.815018]
-  links: [https://yandex.ru/maps/-/CHB~VYJS]
 - title:
   coordinates: []
   links: []
@@ -51,9 +39,6 @@
 - title: Звенигородский Манеж
   coordinates: [55.729897, 36.859526]
   links: [https://yandex.ru/maps/-/CHB~V-32]
-- title: Площадь в Звенигороде
-  coordinates: [55.729098, 36.860037]
-  links: [https://yandex.ru/maps/-/CHB~ZM32]
 - title:
   coordinates: []
   links: []
