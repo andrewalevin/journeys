@@ -7,6 +7,10 @@
     font-weight: 500;
 }
 
+.markdown-body h1, .markdown-body h2, .markdown-body h3, .markdown-body h4{
+    border-bottom: none;
+}
+
 .cover-container {
     min-height: 400px;
     width: 100%;
@@ -104,9 +108,4 @@
 
 .markdown-body img.cover-icon {
     margin: initial!important;
-}
-
-
-.markdown-body h1, .markdown-body h2, .markdown-body h3, .markdown-body h4{
-    border-bottom: none;
 }
