@@ -253,16 +253,22 @@ function architectMap(configInit) {
             const title = point?.title || point.coordinates;
             const description = point?.description ? `<p>${point?.description}</p>` : '';
             const link = point.link ? `<a href="${point.link}" target="_blank">${point.link}</a>` : '';
+
             const popup = new mapboxgl.Popup({ offset: 40 })
                 .setHTML(`
                     <h3>${title}</h3>
                     ${description}
                     ${link}
                   `);
-            new mapboxgl.Marker({color: 'red'})
-                .setLngLat(point.coordinates.reverse())
-                .setPopup(popup)
-                .addTo(map);
+            if (point?.kind === 'circle') {
+
+            } else {
+                new mapboxgl.Marker({color: 'red'})
+                    .setLngLat(point.coordinates.reverse())
+                    .setPopup(popup)
+                    .addTo(map);
+            }
+
         })
 
         const trackCoordinatesFull = tracks.flatMap(track => track.coordinates);
