@@ -23,9 +23,21 @@
 
 [📍GPX трек zvenigorod-karinskoe.gpx](zvenigorod-karinskoe.gpx)
 
+![img-0140.jpg](../_images/zvenigorod/img-0140.jpg)
+
+
+![img-0093.jpg](../_images/zvenigorod/img-0093.jpg)
+
+![img-0098.jpg](../_images/zvenigorod/img-0098.jpg)
 
 
 
+![img-0085.jpg](../_images/zvenigorod/img-0085.jpg)
+
+
+![img-0086.jpg](../_images/zvenigorod/img-0086.jpg)
+
+![img-0166.jpg](../_images/zvenigorod/img-0166.jpg)
 
 
 
