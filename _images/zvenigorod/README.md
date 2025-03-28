@@ -1,6 +1,6 @@
 
 <link rel="stylesheet" href="../../assets-custom/css/style-markdown.css">
-<div class="cover-container" style="background-image: url('../mars-1200.jpg');">
+<div class="cover-container" style="background-image: url('../../zvenigorod-mars/mars-1200.jpg');">
 	<div class="cover-text">
 		<div class="cover-title">
             Марс на Театральной - Звенигород DEV
