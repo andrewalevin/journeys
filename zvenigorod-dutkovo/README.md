@@ -100,7 +100,9 @@ https://goo.gl/maps/h3yBR6EFSVt
 ![photo_2025-03-14 19.50.25.jpeg](imgs/photo_2025-03-14%2019.50.25.jpeg)
 
 
+![img-6594.jpg](../0-images/zvenigorod/img-6594.jpg)
 
+![img-6619.jpg](../0-images/zvenigorod/img-6619.jpg)
 
 
 

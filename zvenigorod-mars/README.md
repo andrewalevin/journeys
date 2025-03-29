@@ -148,39 +148,6 @@ img-0672
 
 
 
-
-
-![img-1339.jpg](../0-images/zvenigorod/img-1339.jpg)
-
-![img-1344.jpg](../0-images/zvenigorod/img-1344.jpg)
-img-1344
-
-![img-1357.jpg](../0-images/zvenigorod/img-1357.jpg)
-
-![img-1359.jpg](../0-images/zvenigorod/img-1359.jpg)
-
-![img-1377.jpg](../0-images/zvenigorod/img-1377.jpg)
-
-![img-1413.jpg](../0-images/zvenigorod/img-1413.jpg)
-
-![img-1423.jpg](../0-images/zvenigorod/img-1423.jpg)
-img-1423
-
-![img-1428.jpg](../0-images/zvenigorod/img-1428.jpg)
-
-![img-1430.jpg](../0-images/zvenigorod/img-1430.jpg)
-
-![img-1435.jpg](../0-images/zvenigorod/img-1435.jpg)
-
-![img-1437.jpg](../0-images/zvenigorod/img-1437.jpg)
-
-![img-1439.jpg](../0-images/zvenigorod/img-1439.jpg)
-img-1439
-
-![img-1443.jpg](../0-images/zvenigorod/img-1443.jpg)
-
-![img-1459.jpg](../0-images/zvenigorod/img-1459.jpg)
-
 ![img-6504.jpg](../0-images/zvenigorod/img-6504.jpg)
 
 ![img-6505.jpg](../0-images/zvenigorod/img-6505.jpg)
@@ -225,9 +192,7 @@ img-6557
 ![img-6578.jpg](../0-images/zvenigorod/img-6578.jpg)
 img-6578
 
-![img-6594.jpg](../0-images/zvenigorod/img-6594.jpg)
 
-![img-6619.jpg](../0-images/zvenigorod/img-6619.jpg)
 
 ![img-6755.jpg](../0-images/zvenigorod/img-6755.jpg)
 
@@ -249,11 +214,7 @@ img-6774
 
 ![img-6779.jpg](../0-images/zvenigorod/img-6779.jpg)
 
-![img-6784.jpg](../0-images/zvenigorod/img-6784.jpg)
 
-![img-6785.jpg](../0-images/zvenigorod/img-6785.jpg)
-
-![img-6786.jpg](../0-images/zvenigorod/img-6786.jpg)
 img-6786
 
 ![img-6787.jpg](../0-images/zvenigorod/img-6787.jpg)
