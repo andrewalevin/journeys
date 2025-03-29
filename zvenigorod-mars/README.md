@@ -57,13 +57,23 @@
 
 ![img-0204.jpg](../0-images/zvenigorod/img-0204.jpg)
 
-![img-0110.jpg](../0-images/zvenigorod/img-0110.jpg)
+![img-8887.jpg](../0-images/zvenigorod/img-8887.jpg)
 
 ## Болото карьера Сима
 
+![img-8130.jpg](../0-images/zvenigorod/img-8130.jpg)
+
+![img-8131.jpg](../0-images/zvenigorod/img-8131.jpg)
+
 ![img-7562.jpg](../0-images/zvenigorod/img-7562.jpg)
 
+
+
 ## Мост в Каринском
+
+![img-8868-1.jpg](../0-images/zvenigorod/img-8868-1.jpg)
+
+![img-8868.jpg](../0-images/zvenigorod/img-8868.jpg)
 
 
 ## Биостанции и берег Москвы-реки

@@ -32,6 +32,8 @@
 
 ![img-1339.jpg](../0-images/zvenigorod/img-1339.jpg)
 
+![img-1357.jpg](../0-images/zvenigorod/img-1357.jpg)
+
 
 ## Саввино-Сторожевский Монастырь
 

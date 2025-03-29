@@ -62,6 +62,8 @@
 
 ![img-8004.jpg](../0-images/zvenigorod/img-8004.jpg)
 
+![img-8882.jpg](../0-images/zvenigorod/img-8882.jpg)
+
 
 ## Биостанции и берег Москвы-реки
 

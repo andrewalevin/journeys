@@ -74,14 +74,27 @@
 
 ![img-6768.jpg](../0-images/zvenigorod/img-6768.jpg)
 
-## Каринское 
+## От Слободы до Каринского
 
 ![img-7803.jpg](../0-images/zvenigorod/img-7803.jpg)
 
 ![img-6527.jpg](../0-images/zvenigorod/img-6527.jpg)
 
 
+## Каринское
+
+![img-8132.jpg](../0-images/zvenigorod/img-8132.jpg)
+
+![img-8134.jpg](../0-images/zvenigorod/img-8134.jpg)
+
+![img-8279-1.jpg](../0-images/zvenigorod/img-8279-1.jpg)
+
+
 ## Биостанция 
+
+![img-8146.jpg](../0-images/zvenigorod/img-8146.jpg)
+
+![img-8152.jpg](../0-images/zvenigorod/img-8152.jpg)
 
 ![img-6555.jpg](../0-images/zvenigorod/img-6555.jpg)
 
