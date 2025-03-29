@@ -24,18 +24,18 @@
 [📍GPX трек vyazemy-zaharovo-zvenigorod-karinskoe.gpx](vyazemy-zaharovo-zvenigorod-karinskoe.gpx)
 
 
-![img-0621.jpg](../_images/zvenigorod/img-0621.jpg)
+![img-0621.jpg](../0-images/zvenigorod/img-0621.jpg)
 img-0621.jpg
 
-![img-0622.jpg](../_images/zvenigorod/img-0622.jpg)
+![img-0622.jpg](../0-images/zvenigorod/img-0622.jpg)
 
-![img-0624.jpg](../_images/zvenigorod/img-0624.jpg)
+![img-0624.jpg](../0-images/zvenigorod/img-0624.jpg)
 
-![img-0628.jpg](../_images/zvenigorod/img-0628.jpg)
+![img-0628.jpg](../0-images/zvenigorod/img-0628.jpg)
 
-![img-0671.jpg](../_images/zvenigorod/img-0671.jpg)
+![img-0671.jpg](../0-images/zvenigorod/img-0671.jpg)
 
-![img-0673.jpg](../_images/zvenigorod/img-0673.jpg)
+![img-0673.jpg](../0-images/zvenigorod/img-0673.jpg)
 
 
 
