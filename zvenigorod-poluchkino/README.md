@@ -24,23 +24,37 @@
 
 ## Платформа Полушкино
 
+![img-7544.jpg](../0-images/zvenigorod/img-7544.jpg)
+
+![img-7546.jpg](../0-images/zvenigorod/img-7546.jpg)
+
+![img-7548.jpg](../0-images/zvenigorod/img-7548.jpg)
+
 ## Васьельевское и санаторий им. Герцина
+
 
 ![img-0193.jpg](../0-images/zvenigorod/img-0193.jpg)
 
 ## Болото карьера Сима
 
+![img-7565.jpg](../0-images/zvenigorod/img-7565.jpg)
 
 ## Мост в Каринском
 
+![img-7566.jpg](../0-images/zvenigorod/img-7566.jpg)
 
 ## Биостанции и берег Москвы-реки
 
 ![img-0109.jpg](../0-images/zvenigorod/img-0109.jpg)
 
+![img-7290.jpg](../0-images/zvenigorod/img-7290.jpg)
+
 ![img-0190.jpg](../0-images/zvenigorod/img-0190.jpg)
 
+
 ## Звенигород
+
+![img-6836.jpg](../0-images/zvenigorod/img-6836.jpg)
 
 ![img-0141.jpg](../0-images/zvenigorod/img-0141.jpg)
 

@@ -23,10 +23,11 @@
 [📍GPX трек dorohovo-zvenigorod.gpx](dorohovo-zvenigorod.gpx)
 
 
-## Станция Дорохово
+## Станция чеДорохово
 
+![img-8100.jpg](../0-images/zvenigorod/img-8100.jpg)
 
-## Мост в Дорохово
+## Мост через Рузу в санатории Дорохово
 
 
 ## Старый железнодорожный мост
@@ -35,24 +36,40 @@
 
 ## Подвесные мосты вокруг Тучково
 
+![img-8111.jpg](../0-images/zvenigorod/img-8111.jpg)
+
+![img-7510.jpg](../0-images/zvenigorod/img-7510.jpg)
+
+![img-7505.jpg](../0-images/zvenigorod/img-7505.jpg)
+
 ## Полушкинские каменоломни
 
 ![img-0163.jpg](../0-images/zvenigorod/img-0163.jpg)
 
 ![img-0166-1.jpg](../0-images/zvenigorod/img-0166-1.jpg)
 
+
 ## Васьельевское и санаторий им. Герцина
 
+![img-7991.jpg](../0-images/zvenigorod/img-7991.jpg)
 
-## Болото карьера Сима
+![img-6791.jpg](../0-images/zvenigorod/img-6791.jpg)
+
+![img-7539.jpg](../0-images/zvenigorod/img-7539.jpg)
 
 
 ## Мост в Каринском
 
+![img-8004.jpg](../0-images/zvenigorod/img-8004.jpg)
+
 
 ## Биостанции и берег Москвы-реки
 
+![img-6822.jpg](../0-images/zvenigorod/img-6822.jpg)
+
 ![img-6557.jpg](../0-images/zvenigorod/img-6557.jpg)
+
+
 
 ## Звенигород
 
@@ -62,6 +79,9 @@
 ![img-6755.jpg](../0-images/zvenigorod/img-6755.jpg)
 
 ## Биостанция и родник
+
+
+![img-6879.jpg](../0-images/zvenigorod/img-6879.jpg)
 
 
 

@@ -23,14 +23,46 @@
 
 [📍GPX трек vyazemy-zaharovo-zvenigorod-karinskoe.gpx](vyazemy-zaharovo-zvenigorod-karinskoe.gpx)
 
+## Станция Голицыно
 
+
+## Усадьба Вяземы
+
+![img-0922.jpg](../0-images/zvenigorod/img-0922.jpg)
+
+![img-0926.jpg](../0-images/zvenigorod/img-0926.jpg)
+
+## Усадьба Захарово 
+
+![img-0945.jpg](../0-images/zvenigorod/img-0945.jpg)
+
+
+
+
+## Звенигород
+
+
+## Городок
+
+![img-0971.jpg](../0-images/zvenigorod/img-0971.jpg)
+
+
+
+## Саввино-Сторожевский Монастырь
 
 
 ## Мост в Каринском
 
+![img-7809.jpg](../0-images/zvenigorod/img-7809.jpg)
+
+![img-6772.jpg](../0-images/zvenigorod/img-6772.jpg)
+
+![img-7865.jpg](../0-images/zvenigorod/img-7865.jpg)
+
 
 ## Биостанции и берег Москвы-реки
 
+![img-6819.jpg](../0-images/zvenigorod/img-6819.jpg)
 
 
 ## Звенигород

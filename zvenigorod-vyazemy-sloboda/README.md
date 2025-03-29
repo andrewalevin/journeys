@@ -22,38 +22,44 @@
 
 [📍GPX трек vyazemy-zaharovo-zvenigorod-sloboda.gpx](vyazemy-zaharovo-zvenigorod-sloboda.gpx)
 
-![img-0275.jpg](../0-images/zvenigorod/img-0275.jpg)
+
+## Станция Голицыно
+
+
+## Усадьба Вяземы
+
+![img-0924.jpg](../0-images/zvenigorod/img-0924.jpg)
 
 ![img-0920-1.jpg](../0-images/zvenigorod/img-0920-1.jpg)
 
 
-
-![img-0922.jpg](../0-images/zvenigorod/img-0922.jpg)
-
-![img-0924.jpg](../0-images/zvenigorod/img-0924.jpg)
-
-![img-0926.jpg](../0-images/zvenigorod/img-0926.jpg)
-
-![img-0940.jpg](../0-images/zvenigorod/img-0940.jpg)
+## Усадьба Захарово
 
 ![img-0941.jpg](../0-images/zvenigorod/img-0941.jpg)
-img-0941
-
-![img-0945.jpg](../0-images/zvenigorod/img-0945.jpg)
 
 ![img-0956.jpg](../0-images/zvenigorod/img-0956.jpg)
 
+![img-0940.jpg](../0-images/zvenigorod/img-0940.jpg)
+
+![img-0275.jpg](../0-images/zvenigorod/img-0275.jpg)
+
+
+
+
+## Звенигород
+
+## Городок
+
 ![img-0970.jpg](../0-images/zvenigorod/img-0970.jpg)
 
-![img-0971.jpg](../0-images/zvenigorod/img-0971.jpg)
-
-![img-0973.jpg](../0-images/zvenigorod/img-0973.jpg)
-img-0973
-
-![img-0974.jpg](../0-images/zvenigorod/img-0974.jpg)
+![img-1357.jpg](../0-images/zvenigorod/img-1357.jpg)
 
 
-### DIRECT
+## Саввино-Сторожевский Монастырь
+
+# Слобода и далее
+
+![img-0667.jpg](../0-images/zvenigorod/img-0667.jpg)
 
 ![img-1046.jpg](../0-images/zvenigorod/img-1046.jpg)
 
@@ -61,9 +67,12 @@ img-0973
 
 
 
-## Слобода
+# OTHER
 
-![img-0667.jpg](../0-images/zvenigorod/img-0667.jpg)
+
+
+
+
 
 
 <link href="https://api.mapbox.com/mapbox-gl-js/v3.10.0/mapbox-gl.css" rel="stylesheet">

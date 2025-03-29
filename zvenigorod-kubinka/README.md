@@ -29,9 +29,11 @@
 
 ![photo_2025-03-22 21.48.49.jpeg](imgs/photo_2025-03-22%2021.48.49.jpeg)
 
-![img-8100.jpg](../0-images/zvenigorod/img-8100.jpg)
+
 
 ## Болото карьера Сима
+
+![img-8113.jpg](../0-images/zvenigorod/img-8113.jpg)
 
 ![img-6518.jpg](../0-images/zvenigorod/img-6518.jpg)
 
@@ -42,6 +44,8 @@
 ## Биостанции и берег Москвы-реки
 
 ![img-0103.jpg](../0-images/zvenigorod/img-0103.jpg)
+
+![img-7305.jpg](../0-images/zvenigorod/img-7305.jpg)
 
 ## Звенигород
 
