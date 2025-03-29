@@ -29,20 +29,27 @@
 
 ![photo_2025-03-22 21.48.49.jpeg](imgs/photo_2025-03-22%2021.48.49.jpeg)
 
+![img-8100.jpg](../0-images/zvenigorod/img-8100.jpg)
 
 ## Болото карьера Сима
 
+![img-6518.jpg](../0-images/zvenigorod/img-6518.jpg)
 
 ## Мост в Каринском
 
 
+
 ## Биостанции и берег Москвы-реки
 
+![img-0103.jpg](../0-images/zvenigorod/img-0103.jpg)
 
 ## Звенигород
 
 
 ## Станция Звенигород
+
+![img-0270.jpg](../0-images/zvenigorod/img-0270.jpg)
+
 
 
 
