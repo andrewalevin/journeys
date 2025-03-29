@@ -105,42 +105,42 @@ https://goo.gl/maps/h3yBR6EFSVt
 ![photo_2025-03-14 19.50.25.jpeg](imgs/photo_2025-03-14%2019.50.25.jpeg)
 
 
-![img-0275.jpg](../_images/zvenigorod/img-0275.jpg)
+![img-0275.jpg](../0-images/zvenigorod/img-0275.jpg)
 
-![img-0920-1.jpg](../_images/zvenigorod/img-0920-1.jpg)
+![img-0920-1.jpg](../0-images/zvenigorod/img-0920-1.jpg)
 
 
 
-![img-0922.jpg](../_images/zvenigorod/img-0922.jpg)
+![img-0922.jpg](../0-images/zvenigorod/img-0922.jpg)
 
-![img-0924.jpg](../_images/zvenigorod/img-0924.jpg)
+![img-0924.jpg](../0-images/zvenigorod/img-0924.jpg)
 
-![img-0926.jpg](../_images/zvenigorod/img-0926.jpg)
+![img-0926.jpg](../0-images/zvenigorod/img-0926.jpg)
 
-![img-0940.jpg](../_images/zvenigorod/img-0940.jpg)
+![img-0940.jpg](../0-images/zvenigorod/img-0940.jpg)
 
-![img-0941.jpg](../_images/zvenigorod/img-0941.jpg)
+![img-0941.jpg](../0-images/zvenigorod/img-0941.jpg)
 img-0941
 
-![img-0945.jpg](../_images/zvenigorod/img-0945.jpg)
+![img-0945.jpg](../0-images/zvenigorod/img-0945.jpg)
 
-![img-0956.jpg](../_images/zvenigorod/img-0956.jpg)
+![img-0956.jpg](../0-images/zvenigorod/img-0956.jpg)
 
-![img-0970.jpg](../_images/zvenigorod/img-0970.jpg)
+![img-0970.jpg](../0-images/zvenigorod/img-0970.jpg)
 
-![img-0971.jpg](../_images/zvenigorod/img-0971.jpg)
+![img-0971.jpg](../0-images/zvenigorod/img-0971.jpg)
 
-![img-0973.jpg](../_images/zvenigorod/img-0973.jpg)
+![img-0973.jpg](../0-images/zvenigorod/img-0973.jpg)
 img-0973
 
-![img-0974.jpg](../_images/zvenigorod/img-0974.jpg)
+![img-0974.jpg](../0-images/zvenigorod/img-0974.jpg)
 
 
 ### DIRECT
 
-![img-1046.jpg](../_images/zvenigorod/img-1046.jpg)
+![img-1046.jpg](../0-images/zvenigorod/img-1046.jpg)
 
-![img-1049.jpg](../_images/zvenigorod/img-1049.jpg)
+![img-1049.jpg](../0-images/zvenigorod/img-1049.jpg)
 
 
 <link href="https://api.mapbox.com/mapbox-gl-js/v3.10.0/mapbox-gl.css" rel="stylesheet">
