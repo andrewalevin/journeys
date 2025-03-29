@@ -35,13 +35,12 @@
 
 ![img-6767.jpg](../0-images/zvenigorod/img-6767.jpg)
 
-![img-7510.jpg](../0-images/zvenigorod/img-7510.jpg)
-
-![img-7501.jpg](../0-images/zvenigorod/img-7501.jpg)
 
 ## Подвесные мосты вокруг Тучково
 
 ![img-7481.jpg](../0-images/zvenigorod/img-7481.jpg)
+
+![img-7501.jpg](../0-images/zvenigorod/img-7501.jpg)
 
 
 ## Полушкинские каменоломни
