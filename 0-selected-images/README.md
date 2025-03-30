@@ -667,10 +667,5 @@ img-9940
 
 img-9963
 
-![img-9969.jpg](../0-images/zvenigorod/img-9969.jpg)
-
-![img-9977.jpg](../0-images/zvenigorod/img-9977.jpg)
-
-![img-9981.jpg](../0-images/zvenigorod/img-9981.jpg)
 
 

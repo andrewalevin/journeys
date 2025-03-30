@@ -40,15 +40,8 @@
 
 ![img-0622.jpg](../0-images/zvenigorod/img-0622.jpg)
 
-![img-0624.jpg](../0-images/zvenigorod/img-0624.jpg)
-
-1
-
-![img-0628.jpg](../0-images/zvenigorod/img-0628.jpg)
-
 ![img-7718.jpg](../0-images/zvenigorod/img-7718.jpg)
 
-![img-7725.jpg](../0-images/zvenigorod/img-7725.jpg)
 
 ## Звенигород и Городок
 

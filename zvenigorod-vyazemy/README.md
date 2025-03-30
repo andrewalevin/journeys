@@ -43,8 +43,7 @@
 
 ![img-0624.jpg](../0-images/zvenigorod/img-0624.jpg)
 
-
-
+![img-7725.jpg](../0-images/zvenigorod/img-7725.jpg)
 
 
 
