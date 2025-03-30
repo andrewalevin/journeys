@@ -93,7 +93,7 @@
 
 ## До станции Звенигород
 
-![img-7248.jpg](../0-images/zvenigorod/img-7248.jpg)
+![img-7939.jpg](../0-images/zvenigorod/img-7939.jpg)
 
 
 

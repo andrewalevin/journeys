@@ -40,6 +40,10 @@
 ![img-0974.jpg](../0-images/zvenigorod/img-0974.jpg)
 
 
+![img-0644.jpg](../0-images/zvenigorod-mon/img-0644.jpg)
+
+![img-1025.jpg](../0-images/zvenigorod-mon/img-1025.jpg)
+
 
 ## Каринское
 

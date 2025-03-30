@@ -63,6 +63,12 @@
 
 ## Саввино-Сторожевский Монастырь
 
+
+![img-1025.jpg](../0-images/zvenigorod-mon/img-1025.jpg)
+
+
+## Слобода и до станции Звенигород
+
 ![img-0667.jpg](../0-images/zvenigorod/img-0667.jpg)
 
 ![img-9936.jpg](../0-images/zvenigorod/img-9936.jpg)

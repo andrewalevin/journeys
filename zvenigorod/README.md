@@ -25,6 +25,8 @@
 
 ## Прекрасный Звенигород
 
+![img-7771.jpg](../0-images/zvenigorod/img-7771.jpg)
+
 ![img-9874.jpg](../0-images/zvenigorod/img-9874.jpg)
 
 ![img-1413.jpg](../0-images/zvenigorod/img-1413.jpg)
@@ -39,7 +41,7 @@
 
 ![img-9876.jpg](../0-images/zvenigorod/img-9876.jpg)
 
-2
+## Малиновый овраг, дом чехова и путь к Городку
 
 ![img-9884.jpg](../0-images/zvenigorod/img-9884.jpg)
 
@@ -53,11 +55,16 @@
 
 ![img-7760.jpg](../0-images/zvenigorod/img-7760.jpg)
 
-![img-7771.jpg](../0-images/zvenigorod/img-7771.jpg)
+
 
 
 ## Саввино-Сторожевский Монастырь
 
+![img-0648.jpg](../0-images/zvenigorod-mon/img-0648.jpg)
+
+![img-1330.jpg](../0-images/zvenigorod-mon/img-1330.jpg)
+
+![img-1307.jpg](../0-images/zvenigorod-mon/img-1307.jpg)
 
 
 

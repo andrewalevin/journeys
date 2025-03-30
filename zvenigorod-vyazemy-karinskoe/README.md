@@ -42,11 +42,11 @@
 
 ![img-0624.jpg](../0-images/zvenigorod/img-0624.jpg)
 
+1
+
 ![img-0628.jpg](../0-images/zvenigorod/img-0628.jpg)
 
 ![img-7718.jpg](../0-images/zvenigorod/img-7718.jpg)
-
-![img-7719.jpg](../0-images/zvenigorod/img-7719.jpg)
 
 ![img-7725.jpg](../0-images/zvenigorod/img-7725.jpg)
 
@@ -60,6 +60,25 @@
 
 
 ## Саввино-Сторожевский Монастырь
+
+![img-1025.jpg](../0-images/zvenigorod-mon/img-1025.jpg)
+
+![img-0644.jpg](../0-images/zvenigorod-mon/img-0644.jpg)
+
+![img-0639.jpg](../0-images/zvenigorod-mon/img-0639.jpg)
+
+1
+
+![img-0644.jpg](../0-images/zvenigorod-mon/img-0644.jpg)
+
+![img-1034.jpg](../0-images/zvenigorod-mon/img-1034.jpg)
+
+2
+
+![img-1331.jpg](../0-images/zvenigorod-mon/img-1331.jpg)
+
+![img-9971.jpg](../0-images/zvenigorod-mon/img-9971.jpg)
+
 
 
 
