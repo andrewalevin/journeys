@@ -59,13 +59,19 @@
 
 ![img-8887.jpg](../0-images/zvenigorod/img-8887.jpg)
 
+![img-7562.jpg](../0-images/zvenigorod/img-7562.jpg)
+
+
+
 ## Болото карьера Сима
 
 ![img-8130.jpg](../0-images/zvenigorod/img-8130.jpg)
 
 ![img-8131.jpg](../0-images/zvenigorod/img-8131.jpg)
 
-![img-7562.jpg](../0-images/zvenigorod/img-7562.jpg)
+![img-0199.jpg](../0-images/zvenigorod/img-0199.jpg)
+
+![img-0229.jpg](../0-images/zvenigorod/img-0229.jpg)
 
 
 

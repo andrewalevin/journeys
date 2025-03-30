@@ -26,6 +26,8 @@
 
 ![img-7544.jpg](../0-images/zvenigorod/img-7544.jpg)
 
+![img-6504.jpg](../0-images/zvenigorod/img-6504.jpg)
+
 ![img-7546.jpg](../0-images/zvenigorod/img-7546.jpg)
 
 ![img-7548.jpg](../0-images/zvenigorod/img-7548.jpg)

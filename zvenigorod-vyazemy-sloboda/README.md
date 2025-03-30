@@ -35,7 +35,7 @@
 
 ## Усадьба Захарово
 
-![img-0941.jpg](../0-images/zvenigorod/img-0941.jpg)
+![img-0621.jpg](../0-images/zvenigorod/img-0621.jpg)
 
 ![img-0956.jpg](../0-images/zvenigorod/img-0956.jpg)
 

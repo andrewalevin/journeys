@@ -59,6 +59,8 @@
 
 ## Станция Звенигород
 
+![img-6563.jpg](../0-images/zvenigorod/img-6563.jpg)
+
 ![img-0270.jpg](../0-images/zvenigorod/img-0270.jpg)
 
 

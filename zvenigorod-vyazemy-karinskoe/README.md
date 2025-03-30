@@ -36,8 +36,7 @@
 
 ![img-0945.jpg](../0-images/zvenigorod/img-0945.jpg)
 
-
-
+![img-7725.jpg](../0-images/zvenigorod/img-7725.jpg)
 
 ## Звенигород
 
@@ -74,18 +73,16 @@
 
 ![img-8199-1.jpg](../0-images/zvenigorod/img-8199-1.jpg)
 
-
-## Звенигород
+![img-6578.jpg](../0-images/zvenigorod/img-6578.jpg)
 
 
 ## Станция Звенигород
 
 
 
-## Биостанция и родник
 
-![img-0621.jpg](../0-images/zvenigorod/img-0621.jpg)
-img-0621.jpg
+
+
 
 ![img-0622.jpg](../0-images/zvenigorod/img-0622.jpg)
 
@@ -103,17 +100,14 @@ img-0621.jpg
 
 ![img-7719.jpg](../0-images/zvenigorod/img-7719.jpg)
 
-![img-7725.jpg](../0-images/zvenigorod/img-7725.jpg)
-
-![img-7760.jpg](../0-images/zvenigorod/img-7760.jpg)
-
-![img-7771.jpg](../0-images/zvenigorod/img-7771.jpg)
-
-![img-7791.jpg](../0-images/zvenigorod/img-7791.jpg)
 
 
 
-![img-6563.jpg](../0-images/zvenigorod/img-6563.jpg)
+
+
+
+
+
 
 
 <link href="https://api.mapbox.com/mapbox-gl-js/v3.10.0/mapbox-gl.css" rel="stylesheet">
