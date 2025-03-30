@@ -31,11 +31,11 @@
 
 ## Каринское
 
-![img-6786.jpg](../0-images/zvenigorod/img-6786.jpg)
+![img-9920.jpg](../0-images/zvenigorod/img-9920.jpg)
 
 ![img-7236.jpg](../0-images/zvenigorod/img-7236.jpg)
 
-
+![img-9927.jpg](../0-images/zvenigorod/img-9927.jpg)
 
 
 ## Васьельевское и санаторий им. Герцина
@@ -49,8 +49,6 @@
 ![img-8003.jpg](../0-images/zvenigorod/img-8003.jpg)
 
 
-
-## Мост в Каринском
 
 
 

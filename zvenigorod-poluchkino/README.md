@@ -22,20 +22,24 @@
 
 [📍GPX трек poluchkino-zvenigorod.gpx](poluchkino-zvenigorod.gpx)
 
-## Платформа Полушкино
+## От платформы Полушкино
 
-![img-7544.jpg](../0-images/zvenigorod/img-7544.jpg)
+![img-7987.jpg](../0-images/zvenigorod/img-7987.jpg)
 
-![img-6504.jpg](../0-images/zvenigorod/img-6504.jpg)
 
-![img-7546.jpg](../0-images/zvenigorod/img-7546.jpg)
+![img-8861.jpg](../0-images/zvenigorod/img-8861.jpg)
 
 ![img-7548.jpg](../0-images/zvenigorod/img-7548.jpg)
 
+![img-7546.jpg](../0-images/zvenigorod/img-7546.jpg)
+
+![img-7544.jpg](../0-images/zvenigorod/img-7544.jpg)
 
 
 
 ## Васьельевское и санаторий им. Герцина
+
+![img-8012.jpg](../0-images/zvenigorod/img-8012.jpg)
 
 ![img-0193.jpg](../0-images/zvenigorod/img-0193.jpg)
 
@@ -44,7 +48,13 @@
 
 ## Болото карьера Сима
 
+![img-7585.jpg](../0-images/zvenigorod/img-7585.jpg)
 
+![img-7604.jpg](../0-images/zvenigorod/img-7604.jpg)
+
+![img-0190.jpg](../0-images/zvenigorod/img-0190.jpg)
+
+![img-8424.jpg](../0-images/zvenigorod/img-8424.jpg)
 
 
 
@@ -70,17 +80,15 @@
 
 ![img-8519.jpg](../0-images/zvenigorod/img-8519.jpg)
 
-![img-0190.jpg](../0-images/zvenigorod/img-0190.jpg)
 
-![img-6836.jpg](../0-images/zvenigorod/img-6836.jpg)
+
+![img-8902.jpg](../0-images/zvenigorod/img-8902.jpg)
+
+## К станции Звенигород
 
 ![img-0141.jpg](../0-images/zvenigorod/img-0141.jpg)
 
-
-
-
-
-## К станции Звенигород
+![img-8554.jpg](../0-images/zvenigorod/img-8554.jpg)
 
 
 
