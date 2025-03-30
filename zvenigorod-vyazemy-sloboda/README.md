@@ -23,25 +23,23 @@
 [📍GPX трек vyazemy-zaharovo-zvenigorod-sloboda.gpx](vyazemy-zaharovo-zvenigorod-sloboda.gpx)
 
 
-## Станция Голицыно
+## От станции Голицыно
 
 
 
 ## Усадьба Вяземы
 
-![img-0924.jpg](../0-images/zvenigorod/img-0924.jpg)
-
 ![img-0920-1.jpg](../0-images/zvenigorod/img-0920-1.jpg)
+
+![img-0924.jpg](../0-images/zvenigorod/img-0924.jpg)
 
 
 
 ## Усадьба Захарово
 
-![img-0621.jpg](../0-images/zvenigorod/img-0621.jpg)
-
 ![img-0956.jpg](../0-images/zvenigorod/img-0956.jpg)
 
-![img-0940.jpg](../0-images/zvenigorod/img-0940.jpg)
+![img-0621.jpg](../0-images/zvenigorod/img-0621.jpg)
 
 ![img-0275.jpg](../0-images/zvenigorod/img-0275.jpg)
 
@@ -65,11 +63,9 @@
 
 ## Саввино-Сторожевский Монастырь
 
-# Слобода и далее
+![img-0667.jpg](../0-images/zvenigorod/img-0667.jpg)
 
 ![img-9936.jpg](../0-images/zvenigorod/img-9936.jpg)
-
-![img-0667.jpg](../0-images/zvenigorod/img-0667.jpg)
 
 ![img-1046.jpg](../0-images/zvenigorod/img-1046.jpg)
 
