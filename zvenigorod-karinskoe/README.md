@@ -23,48 +23,54 @@
 
 [📍GPX трек zvenigorod-karinskoe.gpx](zvenigorod-karinskoe.gpx)
 
+
 ## Станция Звенигород
 
 ![img-7267.jpg](../0-images/zvenigorod/img-7267.jpg)
 
-## Звенигород
+
+## Город Звенигород
 
 ![img-7216.jpg](../0-images/zvenigorod/img-7216.jpg)
 
 
-## Городок
 
+## Городок
 
 ![img-0974.jpg](../0-images/zvenigorod/img-0974.jpg)
 
-## Мост в Каринском
+
+
+## Каринское
+
 
 
 ## Биостанции и берег Москвы-реки
 
 ![img-6815.jpg](../0-images/zvenigorod/img-6815.jpg)
 
-
-
-
-
 ![img-0093.jpg](../0-images/zvenigorod/img-0093.jpg)
 
 ![img-0098.jpg](../0-images/zvenigorod/img-0098.jpg)
 
 
+1
+
 
 ![img-0085.jpg](../0-images/zvenigorod/img-0085.jpg)
-
 
 ![img-0086.jpg](../0-images/zvenigorod/img-0086.jpg)
 
 ![img-0166.jpg](../0-images/zvenigorod/img-0166.jpg)
 
+2
+
 ![img-6790.jpg](../0-images/zvenigorod/img-6790.jpg)
 
-
 ![img-6768.jpg](../0-images/zvenigorod/img-6768.jpg)
+
+
+
 
 ## От Слободы до Каринского
 

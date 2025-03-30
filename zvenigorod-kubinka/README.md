@@ -32,11 +32,15 @@
 ![img-8389.jpg](../0-images/zvenigorod/img-8389.jpg)
 
 
+
 ## Болото карьера Сима
 
 ![img-8113.jpg](../0-images/zvenigorod/img-8113.jpg)
 
 ![img-6518.jpg](../0-images/zvenigorod/img-6518.jpg)
+
+
+
 
 ## Мост в Каринском
 
@@ -54,10 +58,8 @@
 
 
 
-## Звенигород
 
-
-## Станция Звенигород
+## К станции Звенигород
 
 ![img-6563.jpg](../0-images/zvenigorod/img-6563.jpg)
 

@@ -26,11 +26,13 @@
 ## Станция Голицыно
 
 
+
 ## Усадьба Вяземы
 
 ![img-0924.jpg](../0-images/zvenigorod/img-0924.jpg)
 
 ![img-0920-1.jpg](../0-images/zvenigorod/img-0920-1.jpg)
+
 
 
 ## Усадьба Захарово
@@ -50,13 +52,15 @@
 
 ![img-8166.jpg](../0-images/zvenigorod/img-8166.jpg)
 
+
+
 ## Городок
 
 ![img-0970.jpg](../0-images/zvenigorod/img-0970.jpg)
 
-
-
 ![img-8209.jpg](../0-images/zvenigorod/img-8209.jpg)
+
+
 
 
 ## Саввино-Сторожевский Монастырь
@@ -70,12 +74,6 @@
 ![img-1046.jpg](../0-images/zvenigorod/img-1046.jpg)
 
 ![img-1049.jpg](../0-images/zvenigorod/img-1049.jpg)
-
-
-
-# OTHER
-
-
 
 
 

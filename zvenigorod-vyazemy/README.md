@@ -20,7 +20,6 @@
 
 <div id="map"></div>
 
-
 ## Станция Голицыно
 
 
@@ -46,7 +45,6 @@
 
 ![img-1443.jpg](../0-images/zvenigorod/img-1443.jpg)
 
-
 ![img-9894.jpg](../0-images/zvenigorod/img-9894.jpg)
 
 
@@ -64,7 +62,7 @@
 ## Саввино-Сторожевский Монастырь
 
 
-## Станция Звенигород
+## К станции Звенигород
 
 ![img-1459.jpg](../0-images/zvenigorod/img-1459.jpg)
 

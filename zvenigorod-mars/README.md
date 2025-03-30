@@ -23,7 +23,7 @@
 [📍GPX трек mars-zvenigorod.gpx](mars-zvenigorod.gpx)
 
 
-## Платформа Театральная
+## От платформы Театральной
 
 ![img-7467.jpg](../0-images/zvenigorod/img-7467.jpg)
 
@@ -45,11 +45,16 @@
 
 ## Полушкинские каменоломни
 
+![img-7532.jpg](../0-images/zvenigorod/img-7532.jpg)
+
 ![img-0170.jpg](../0-images/zvenigorod/img-0170.jpg)
 
-![img-7527.jpg](../0-images/zvenigorod/img-7527.jpg)
+![img-7562.jpg](../0-images/zvenigorod/img-7562.jpg)
 
-![img-7532.jpg](../0-images/zvenigorod/img-7532.jpg)
+![img-8887.jpg](../0-images/zvenigorod/img-8887.jpg)
+
+
+
 
 ## Васьельевское и санаторий им. Герцина
 
@@ -57,27 +62,21 @@
 
 ![img-0204.jpg](../0-images/zvenigorod/img-0204.jpg)
 
-![img-8887.jpg](../0-images/zvenigorod/img-8887.jpg)
 
-![img-7562.jpg](../0-images/zvenigorod/img-7562.jpg)
+![img-8868-1.jpg](../0-images/zvenigorod/img-8868-1.jpg)
+
 
 
 
 ## Болото карьера Сима
 
-![img-8130.jpg](../0-images/zvenigorod/img-8130.jpg)
-
-![img-8131.jpg](../0-images/zvenigorod/img-8131.jpg)
-
 ![img-0199.jpg](../0-images/zvenigorod/img-0199.jpg)
 
-![img-0229.jpg](../0-images/zvenigorod/img-0229.jpg)
+![img-8130.jpg](../0-images/zvenigorod/img-8130.jpg)
 
 
 
 ## Мост в Каринском
-
-![img-8868-1.jpg](../0-images/zvenigorod/img-8868-1.jpg)
 
 ![img-8868.jpg](../0-images/zvenigorod/img-8868.jpg)
 
@@ -86,16 +85,20 @@
 
 ![img-9955.jpg](../0-images/zvenigorod/img-9955.jpg)
 
+![img-0229.jpg](../0-images/zvenigorod/img-0229.jpg)
+
+
+
+
+
+## До станции Звенигород
+
 ![img-7248.jpg](../0-images/zvenigorod/img-7248.jpg)
 
-## Звенигород
 
 
-## Станция Звенигород
 
-![img-6841.jpg](../0-images/zvenigorod/img-6841.jpg)
 
-![img-6857.jpg](../0-images/zvenigorod/img-6857.jpg)
 
 
 

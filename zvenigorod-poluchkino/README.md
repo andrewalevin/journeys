@@ -32,20 +32,35 @@
 
 ![img-7548.jpg](../0-images/zvenigorod/img-7548.jpg)
 
-## Васьельевское и санаторий им. Герцина
 
+
+
+## Васьельевское и санаторий им. Герцина
 
 ![img-0193.jpg](../0-images/zvenigorod/img-0193.jpg)
 
+
+
+
 ## Болото карьера Сима
 
-![img-7565.jpg](../0-images/zvenigorod/img-7565.jpg)
+
+
+
+
 
 ## Мост в Каринском
 
+![img-7565.jpg](../0-images/zvenigorod/img-7565.jpg)
+
 ![img-7566.jpg](../0-images/zvenigorod/img-7566.jpg)
 
+![img-7568.jpg](../0-images/zvenigorod/img-7568.jpg)
+
 ![img-8438.jpg](../0-images/zvenigorod/img-8438.jpg)
+
+
+
 
 ## Биостанции и берег Москвы-реки
 
@@ -57,16 +72,15 @@
 
 ![img-0190.jpg](../0-images/zvenigorod/img-0190.jpg)
 
-
-
-
-## Звенигород
-
 ![img-6836.jpg](../0-images/zvenigorod/img-6836.jpg)
 
 ![img-0141.jpg](../0-images/zvenigorod/img-0141.jpg)
 
-## Станция Звенигород
+
+
+
+
+## К станции Звенигород
 
 
 

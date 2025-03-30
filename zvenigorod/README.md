@@ -23,7 +23,7 @@
 <div id="map"></div>
 
 
-## Звенигород
+## Прекрасный Звенигород
 
 ![img-9874.jpg](../0-images/zvenigorod/img-9874.jpg)
 
@@ -31,6 +31,7 @@
 
 ![img-1435.jpg](../0-images/zvenigorod/img-1435.jpg)
 
+1
 
 ![img-8203-1.jpg](../0-images/zvenigorod/img-8203-1.jpg)
 
@@ -38,7 +39,11 @@
 
 ![img-9876.jpg](../0-images/zvenigorod/img-9876.jpg)
 
+2
+
 ![img-9884.jpg](../0-images/zvenigorod/img-9884.jpg)
+
+
 
 ## Городок
 
@@ -54,9 +59,11 @@
 ## Саввино-Сторожевский Монастырь
 
 
+
+
+
+
 # LAST ------>
-
-
 
 ![photo_2025-03-14 19.50.27-1.jpeg](imgs/photo_2025-03-14%2019.50.27-1.jpeg)
 
@@ -73,7 +80,6 @@
 
 ![photo_2025-03-14 19.50.27.jpeg](imgs/photo_2025-03-14%2019.50.27.jpeg)
 
-
 ![photo_2025-03-14 19.50.23.jpeg](imgs/photo_2025-03-14%2019.50.23.jpeg)
 
 **1. Усадьба Вязёмы**
@@ -86,7 +92,6 @@
 Ссылка на Google Maps:
 https://goo.gl/maps/7HpRVPSPdD52
 
-
 ![photo_2025-03-14 19.50.24.jpeg](imgs/photo_2025-03-14%2019.50.24.jpeg)
 
 **2. Усадьба Захарово**
@@ -97,7 +102,6 @@ https://goo.gl/maps/7HpRVPSPdD52
 •	Парковая зона и прогулочные тропы
 Ссылка на Google Maps:
 https://goo.gl/maps/ZTNT13RDaKt
-
 
 ![photo_2025-03-14 19.50.28.jpeg](imgs/photo_2025-03-14%2019.50.28.jpeg)
 
@@ -116,9 +120,7 @@ https://goo.gl/maps/h3yBR6EFSVt
 •	Возможность купания в Москве-реке
 •	Сосновые леса и свежий воздух в районе Звенигорода
 
-
 ![photo_2025-03-14 19.50.24-1.jpeg](imgs/photo_2025-03-14%2019.50.24-1.jpeg)
-
 
 Еда и отдых
 •	В Звенигороде есть кафе и рестораны с традиционной русской кухней
