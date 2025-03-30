@@ -23,6 +23,8 @@
 [📍GPX трек vyazemy-zaharovo-zvenigorod-sloboda.gpx](vyazemy-zaharovo-zvenigorod-sloboda.gpx)
 
 
+
+
 ## От станции Голицыно
 
 
@@ -60,7 +62,6 @@
 
 
 
-
 ## Саввино-Сторожевский Монастырь
 
 
@@ -76,6 +77,13 @@
 ![img-1046.jpg](../0-images/zvenigorod/img-1046.jpg)
 
 ![img-1049.jpg](../0-images/zvenigorod/img-1049.jpg)
+
+
+
+
+
+
+
 
 
 

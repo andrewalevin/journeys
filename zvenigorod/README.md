@@ -27,21 +27,33 @@
 
 ![img-7771.jpg](../0-images/zvenigorod/img-7771.jpg)
 
-![img-9874.jpg](../0-images/zvenigorod/img-9874.jpg)
+
+### Манеж
+
+![img-1428.jpg](../0-images/zvenigorod/img-1428.jpg)
+
+![img-1377.jpg](../0-images/zvenigorod/img-1377.jpg)
 
 ![img-1413.jpg](../0-images/zvenigorod/img-1413.jpg)
 
+![img-9876.jpg](../0-images/zvenigorod/img-9876.jpg)
+
+
+
+![img-1437.jpg](../0-images/zvenigorod/img-1437.jpg)
+
 ![img-1435.jpg](../0-images/zvenigorod/img-1435.jpg)
 
-1
+
+
+
+
+
+## Малиновый овраг, дом чехова и путь к Городку
 
 ![img-8203-1.jpg](../0-images/zvenigorod/img-8203-1.jpg)
 
 ![img-9880.jpg](../0-images/zvenigorod/img-9880.jpg)
-
-![img-9876.jpg](../0-images/zvenigorod/img-9876.jpg)
-
-## Малиновый овраг, дом чехова и путь к Городку
 
 ![img-9884.jpg](../0-images/zvenigorod/img-9884.jpg)
 
@@ -55,16 +67,22 @@
 
 ![img-7760.jpg](../0-images/zvenigorod/img-7760.jpg)
 
+![photo_2025-03-14 19.50.28.jpeg](imgs/photo_2025-03-14%2019.50.28.jpeg)
 
 
 
 ## Саввино-Сторожевский Монастырь
 
-![img-0648.jpg](../0-images/zvenigorod-mon/img-0648.jpg)
-
 ![img-1330.jpg](../0-images/zvenigorod-mon/img-1330.jpg)
 
 ![img-1307.jpg](../0-images/zvenigorod-mon/img-1307.jpg)
+
+![img-0648.jpg](../0-images/zvenigorod-mon/img-0648.jpg)
+
+
+
+
+
 
 
 
@@ -83,7 +101,6 @@
 •	Старт: Белорусский вокзал → Голицыно (электричка)
 •	Веломаршрут: Голицыно → Вязёмы → Захарово → Звенигород
 •	Общая протяжённость веломаршрута: 40-50 км (в зависимости от ответвлений)
-
 
 ![photo_2025-03-14 19.50.27.jpeg](imgs/photo_2025-03-14%2019.50.27.jpeg)
 
